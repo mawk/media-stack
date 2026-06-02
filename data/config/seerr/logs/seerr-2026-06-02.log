@@ -1,0 +1,1041 @@
+2026-06-02T03:11:04.536Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T03:11:04.890Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T03:11:05.628Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T03:11:05.630Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T03:11:05.631Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T03:11:05.631Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T03:11:05.632Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T03:11:05.632Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T03:11:05.633Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T03:11:05.638Z [debug][Settings Migrator]: Migration '0007_migrate_arr_tags.js' has been applied. 
+2026-06-02T03:11:05.638Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T03:11:05.639Z [debug][Settings Migrator]: Migration '0008_migrate_blacklist_to_blocklist.js' has been applied. 
+2026-06-02T03:11:05.642Z [info][Notifications]: Registered notification agents 
+2026-06-02T03:11:05.643Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2026-06-02T03:11:05.645Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":1,"enabled":true,"isBuiltIn":true,"order":0}}
+2026-06-02T03:11:05.660Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":2,"enabled":true,"isBuiltIn":true,"order":1}}
+2026-06-02T03:11:05.668Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":3,"enabled":true,"isBuiltIn":true,"order":2}}
+2026-06-02T03:11:05.677Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":4,"enabled":true,"isBuiltIn":true,"order":3}}
+2026-06-02T03:11:05.684Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":5,"enabled":true,"isBuiltIn":true,"order":4}}
+2026-06-02T03:11:05.692Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":6,"enabled":true,"isBuiltIn":true,"order":5}}
+2026-06-02T03:11:05.699Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":7,"enabled":true,"isBuiltIn":true,"order":6}}
+2026-06-02T03:11:05.707Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":8,"enabled":true,"isBuiltIn":true,"order":7}}
+2026-06-02T03:11:05.715Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":9,"enabled":true,"isBuiltIn":true,"order":8}}
+2026-06-02T03:11:05.723Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":10,"enabled":true,"isBuiltIn":true,"order":9}}
+2026-06-02T03:11:05.733Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":11,"enabled":true,"isBuiltIn":true,"order":10}}
+2026-06-02T03:11:05.742Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":12,"enabled":true,"isBuiltIn":true,"order":11}}
+2026-06-02T03:11:05.840Z [info][Server]: Server ready on port 5055 
+2026-06-02T03:12:12.438Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T03:16:00.674Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T03:19:53.808Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T03:19:54.147Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T03:19:54.636Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T03:19:54.638Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T03:19:54.639Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T03:19:54.639Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T03:19:54.640Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T03:19:54.640Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T03:19:54.641Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T03:19:54.642Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T03:19:54.644Z [info][Notifications]: Registered notification agents 
+2026-06-02T03:19:54.647Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2026-06-02T03:19:54.733Z [info][Server]: Server ready on port 5055 
+2026-06-02T03:21:48.012Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T03:24:22.759Z [debug][Jellyfin API]: Failed to authenticate with headers {"ip":"172.20.0.1"}
+2026-06-02T03:24:22.761Z [error][Auth]: The provided Emby is invalid or the server is not reachable. {"error":"INVALID_URL","status":404,"hostname":"http://100.120.22.114:8096"}
+2026-06-02T03:24:56.647Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T03:24:58.156Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T03:25:00.483Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T03:25:02.907Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T03:25:04.212Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T03:25:04.378Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T03:25:04.564Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T03:25:11.188Z [debug][Jellyfin API]: Failed to authenticate with headers {"ip":"172.20.0.1"}
+2026-06-02T03:25:11.189Z [error][Auth]: The provided Emby is invalid or the server is not reachable. {"error":"INVALID_URL","status":404,"hostname":"http://jellyfi:8096"}
+2026-06-02T03:25:14.769Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T03:26:37.921Z [debug][Jellyfin API]: Failed to authenticate with headers {"ip":"172.20.0.1"}
+2026-06-02T03:26:37.923Z [error][Auth]: The provided Emby is invalid or the server is not reachable. {"error":"INVALID_URL","status":404,"hostname":"http://100.120.22.114:8096"}
+2026-06-02T03:36:00.902Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-02T12:08:44.315Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T12:08:44.830Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T12:08:45.534Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T12:08:45.535Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T12:08:45.537Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T12:08:45.537Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T12:08:45.538Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T12:08:45.539Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T12:08:45.539Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T12:08:45.540Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T12:08:45.544Z [info][Notifications]: Registered notification agents 
+2026-06-02T12:08:45.548Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2026-06-02T12:08:45.660Z [info][Server]: Server ready on port 5055 
+2026-06-02T12:26:55.897Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T12:26:56.318Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T12:26:56.922Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T12:26:56.924Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T12:26:56.925Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T12:26:56.926Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T12:26:56.926Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T12:26:56.927Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T12:26:56.927Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T12:26:56.928Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T12:26:56.931Z [info][Notifications]: Registered notification agents 
+2026-06-02T12:26:56.934Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2026-06-02T12:26:57.026Z [info][Server]: Server ready on port 5055 
+2026-06-02T12:41:04.009Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating initial admin user for Seerr {"ip":"::ffff:192.168.65.1","jellyfinUsername":"mawk2311"}
+2026-06-02T12:41:04.067Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T12:42:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:43:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:44:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:44:20.056Z [info][Jellyfin Sync]: Scan starting {"sessionId":"717a5990-29e1-4dbc-a34a-aa40d37b1ebc"}
+2026-06-02T12:44:20.065Z [info][Anime-List Sync]: Downloading latest mapping file 
+2026-06-02T12:44:20.432Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T12:44:20.576Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T12:44:20.576Z [info][Jellyfin Sync]: Full Scan Complete 
+2026-06-02T12:44:29.393Z [info][Jellyfin Sync]: Scan starting {"sessionId":"734e87fc-cacd-4eb2-972f-d66a8321cca2"}
+2026-06-02T12:44:29.404Z [info][Jellyfin Sync]: Beginning to process library: Movies 
+2026-06-02T12:44:29.438Z [info][Jellyfin Sync]: Beginning to process library: Shows 
+2026-06-02T12:44:29.457Z [info][Jellyfin Sync]: Full Scan Complete 
+2026-06-02T12:45:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:45:00.011Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T12:45:00.011Z [info][Jellyfin Sync]: Scan starting {"sessionId":"ac3264f0-512d-4c53-a7fd-6ad8d13a2de8"}
+2026-06-02T12:45:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T12:45:00.039Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T12:45:00.066Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T12:46:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:47:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:48:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:49:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:50:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:50:00.017Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T12:50:00.017Z [info][Jellyfin Sync]: Scan starting {"sessionId":"fcd10800-d32c-4c08-8427-b9810d07510b"}
+2026-06-02T12:50:00.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T12:50:00.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T12:50:00.066Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T12:51:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:52:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:52:31.827Z [error][Radarr]: [Radarr] Failed to retrieve profiles: connect EHOSTUNREACH 172.20.10.11:7878 
+2026-06-02T12:52:42.322Z [error][Radarr]: [Radarr] Failed to retrieve profiles: connect EHOSTUNREACH 172.20.10.11:7878 
+2026-06-02T12:53:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:54:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:55:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T12:55:00.014Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T12:55:00.014Z [info][Jellyfin Sync]: Scan starting {"sessionId":"b2f6c7e5-9dc2-432d-8f12-e1affb6b9e4f"}
+2026-06-02T12:55:00.016Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T12:55:00.043Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T12:55:00.066Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T12:55:27.569Z [error][Radarr]: [Radarr] Failed to retrieve profiles: connect EHOSTUNREACH 172.20.10.11:7878 
+2026-06-02T12:56:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:20:24.029Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T13:20:24.443Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T13:20:24.989Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T13:20:24.990Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T13:20:24.991Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T13:20:24.992Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T13:20:24.993Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T13:20:24.993Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T13:20:24.994Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T13:20:24.995Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T13:20:24.998Z [info][Notifications]: Registered notification agents 
+2026-06-02T13:20:25.034Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T13:20:25.127Z [info][Server]: Server ready on port 5055 
+2026-06-02T13:21:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:22:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:22:15.870Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T13:22:16.195Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T13:22:16.640Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T13:22:16.641Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T13:22:16.643Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T13:22:16.643Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T13:22:16.644Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T13:22:16.644Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T13:22:16.645Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T13:22:16.646Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T13:22:16.649Z [info][Notifications]: Registered notification agents 
+2026-06-02T13:22:16.678Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T13:22:16.770Z [info][Server]: Server ready on port 5055 
+2026-06-02T13:23:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:24:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:25:24.740Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T13:25:25.077Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T13:25:25.536Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T13:25:25.538Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T13:25:25.539Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T13:25:25.539Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T13:25:25.540Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T13:25:25.540Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T13:25:25.541Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T13:25:25.541Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T13:25:25.544Z [info][Notifications]: Registered notification agents 
+2026-06-02T13:25:25.572Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T13:25:25.659Z [info][Server]: Server ready on port 5055 
+2026-06-02T13:26:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:27:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:28:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:29:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:30:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:30:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T13:30:00.011Z [info][Jellyfin Sync]: Scan starting {"sessionId":"80eb79db-7e02-435f-a526-9c27f990f5ed"}
+2026-06-02T13:30:00.014Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T13:30:00.130Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T13:30:00.130Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T13:30:00.348Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T13:30:00.398Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T13:31:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:32:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:33:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:34:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:35:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:35:00.011Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T13:35:00.011Z [info][Jellyfin Sync]: Scan starting {"sessionId":"726f5374-412e-4679-82f1-25daec5de32e"}
+2026-06-02T13:35:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T13:35:00.052Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T13:35:00.084Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T13:36:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:37:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:38:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:39:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:40:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:40:00.011Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T13:40:00.013Z [info][Jellyfin Sync]: Scan starting {"sessionId":"9821ec45-a788-4c2c-8ced-541456375536"}
+2026-06-02T13:40:00.016Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T13:40:00.043Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T13:40:00.067Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T13:41:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:42:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:43:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:44:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:45:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:45:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T13:45:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"9122785e-fdb0-4e01-889d-bb1c924feb09"}
+2026-06-02T13:45:00.013Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T13:45:00.036Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T13:45:00.065Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T13:46:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:47:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:48:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:49:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:50:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:50:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T13:50:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"92fcf8dc-8442-4e2e-b878-dfb95c77ac3b"}
+2026-06-02T13:50:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T13:50:00.035Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T13:50:00.056Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T13:51:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:52:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:53:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:54:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:55:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:55:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T13:55:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"c3b9577e-2a95-4dd4-9462-e548f0c6e0dd"}
+2026-06-02T13:55:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T13:55:00.037Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T13:55:00.060Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T13:56:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:57:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:58:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T13:59:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:00:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:00:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:00:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"93190698-9636-4df6-8e94-81e115364e27"}
+2026-06-02T14:00:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:00:00.035Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:00:00.058Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:01:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:02:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:03:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:04:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:05:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:05:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:05:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"843e86ee-4a86-4144-afdf-edcb619a9765"}
+2026-06-02T14:05:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:05:00.035Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:05:00.057Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:06:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:07:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:08:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:09:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:10:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:10:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:10:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"2d282084-1ac3-4a08-82a7-94e179564beb"}
+2026-06-02T14:10:00.013Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:10:00.036Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:10:00.060Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:11:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:12:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:13:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:14:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:15:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:15:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:15:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"59f99da6-0eb2-493a-969e-243ac6b9443f"}
+2026-06-02T14:15:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:15:00.034Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:15:00.061Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:16:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:17:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:18:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:19:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:20:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:20:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:20:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"1f20c827-4167-441d-bf50-d480983378be"}
+2026-06-02T14:20:00.013Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:20:00.036Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:20:00.058Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:21:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:22:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:23:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:24:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:25:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:25:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:25:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"3c0a5772-48d9-4c47-a480-f9890cf9b98b"}
+2026-06-02T14:25:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:25:00.035Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:25:00.059Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:26:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:27:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:28:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:29:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:30:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:30:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:30:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"ddca9415-812e-4e97-92c9-7d5463a0d997"}
+2026-06-02T14:30:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:30:00.035Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:30:00.058Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:31:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:32:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:33:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:34:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:35:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:35:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:35:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"ddc903ab-c4c6-483c-8d4a-ea59abce4a50"}
+2026-06-02T14:35:00.010Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:35:00.035Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:35:00.061Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:36:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:37:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:38:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:39:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:40:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:40:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:40:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"f5f8fafc-cc45-4e3e-9fad-2664863d4abc"}
+2026-06-02T14:40:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:40:00.032Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:40:00.053Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:41:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:42:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:43:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:44:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:45:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:45:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:45:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"ea7552f7-93ad-408e-a097-24ca28b34563"}
+2026-06-02T14:45:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:45:00.035Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:45:00.057Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:46:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:47:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:48:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:49:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:50:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:50:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:50:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"ed040c3a-7e8c-419b-9bcb-de8046872139"}
+2026-06-02T14:50:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:50:00.032Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:50:00.056Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:51:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:52:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:53:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:54:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:55:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:55:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T14:55:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"de2f32ca-8226-4d5a-8c37-7e6033ad7a62"}
+2026-06-02T14:55:00.013Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T14:55:00.034Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T14:55:00.067Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T14:56:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:57:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:58:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T14:59:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:00:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:00:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:00:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"8f02e5ac-043e-41fe-af8e-9aa31fa2186c"}
+2026-06-02T15:00:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:00:00.035Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:00:00.056Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:01:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:02:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:03:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:04:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:05:00.000Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:05:00.001Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:05:00.001Z [info][Jellyfin Sync]: Scan starting {"sessionId":"98f079de-b478-4deb-a5b5-af58f8226992"}
+2026-06-02T15:05:00.003Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:05:00.026Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:05:00.050Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:06:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:07:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:08:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:09:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:10:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:10:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:10:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"c35f1321-eedf-402f-9e6c-70b9095b3af4"}
+2026-06-02T15:10:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:10:00.042Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:10:00.063Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:11:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:12:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:13:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:14:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:15:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:15:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:15:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"b5b3b111-9b4e-42c3-b12f-7ae997a082a2"}
+2026-06-02T15:15:00.010Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:15:00.034Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:15:00.055Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:16:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:17:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:18:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:19:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:20:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:20:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:20:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"3b42b53a-b50b-45ed-9274-926e3d6e82cc"}
+2026-06-02T15:20:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:20:00.032Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:20:00.056Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:21:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:22:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:23:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:24:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:25:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:25:00.005Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:25:00.005Z [info][Jellyfin Sync]: Scan starting {"sessionId":"eec2da4e-c2b2-4ffc-8c1f-84e22d5beeb0"}
+2026-06-02T15:25:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:25:00.031Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:25:00.055Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:26:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:27:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:28:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:28:56.670Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T15:28:56.988Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T15:28:57.432Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T15:28:57.434Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T15:28:57.435Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T15:28:57.436Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T15:28:57.436Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T15:28:57.437Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T15:28:57.437Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T15:28:57.438Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T15:28:57.441Z [info][Notifications]: Registered notification agents 
+2026-06-02T15:28:57.469Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T15:28:57.556Z [info][Server]: Server ready on port 5055 
+2026-06-02T15:29:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:30:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:30:00.017Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:30:00.018Z [info][Jellyfin Sync]: Scan starting {"sessionId":"2194b7ac-26e5-4547-b194-a3491b1d169e"}
+2026-06-02T15:30:00.022Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T15:30:00.168Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T15:30:00.168Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:30:00.391Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:30:00.446Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:31:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:31:51.906Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T15:31:52.250Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T15:31:52.682Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T15:31:52.683Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T15:31:52.684Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T15:31:52.685Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T15:31:52.685Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T15:31:52.686Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T15:31:52.686Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T15:31:52.687Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T15:31:52.690Z [info][Notifications]: Registered notification agents 
+2026-06-02T15:31:52.717Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T15:31:52.801Z [info][Server]: Server ready on port 5055 
+2026-06-02T15:32:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:33:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:34:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:35:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:35:00.011Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:35:00.011Z [info][Jellyfin Sync]: Scan starting {"sessionId":"89423655-a92a-4ada-8e48-d63d0f035041"}
+2026-06-02T15:35:00.015Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T15:35:00.152Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T15:35:00.152Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:35:00.377Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:35:00.429Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:36:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:37:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:38:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:39:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:40:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:40:00.012Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:40:00.012Z [info][Jellyfin Sync]: Scan starting {"sessionId":"86fc449a-aa70-4f4e-b09c-c53818f1cb65"}
+2026-06-02T15:40:00.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:40:00.051Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:40:00.083Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:41:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:42:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:43:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:44:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:45:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:45:00.019Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:45:00.019Z [info][Jellyfin Sync]: Scan starting {"sessionId":"f91e0ba6-f1e0-4e84-a8ad-926c4c41e04e"}
+2026-06-02T15:45:00.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:45:00.049Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:45:00.074Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:45:32.290Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T15:45:32.613Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T15:45:33.079Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T15:45:33.081Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T15:45:33.082Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T15:45:33.083Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T15:45:33.083Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T15:45:33.084Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T15:45:33.084Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T15:45:33.085Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T15:45:33.089Z [info][Notifications]: Registered notification agents 
+2026-06-02T15:45:33.119Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T15:45:33.208Z [info][Server]: Server ready on port 5055 
+2026-06-02T15:46:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:47:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:48:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:49:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:50:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:50:00.019Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:50:00.019Z [info][Jellyfin Sync]: Scan starting {"sessionId":"6ed7fed0-1b8b-48ff-8aa5-62cf2a98085c"}
+2026-06-02T15:50:00.023Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T15:50:00.157Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T15:50:00.157Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:50:00.372Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:50:00.422Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:51:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:52:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:53:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:54:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:55:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:55:00.020Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T15:55:00.020Z [info][Jellyfin Sync]: Scan starting {"sessionId":"52b0c1ec-6082-410a-a192-e1ddb20c7023"}
+2026-06-02T15:55:00.023Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T15:55:00.058Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T15:55:00.089Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T15:56:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:57:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:58:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T15:59:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:00:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:00:00.020Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T16:00:00.020Z [info][Jellyfin Sync]: Scan starting {"sessionId":"85ad4db3-db48-4000-81d6-255c17f6be89"}
+2026-06-02T16:00:00.023Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T16:00:00.049Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T16:00:00.074Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T16:01:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:02:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:03:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:04:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:05:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:05:00.016Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T16:05:00.017Z [info][Jellyfin Sync]: Scan starting {"sessionId":"a7c6fca0-69ce-4d11-bd26-5f9ce3652168"}
+2026-06-02T16:05:00.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T16:05:00.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T16:05:00.074Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T16:06:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:07:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:08:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:08:52.173Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T16:08:52.510Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T16:08:52.942Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T16:08:52.943Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T16:08:52.944Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T16:08:52.945Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T16:08:52.945Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T16:08:52.946Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T16:08:52.946Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T16:08:52.947Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T16:08:52.955Z [info][Notifications]: Registered notification agents 
+2026-06-02T16:08:52.982Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T16:08:53.080Z [info][Server]: Server ready on port 5055 
+2026-06-02T16:09:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:10:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:10:00.016Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T16:10:00.016Z [info][Jellyfin Sync]: Scan starting {"sessionId":"60312804-1af0-4993-bb53-53d2209a46f3"}
+2026-06-02T16:10:00.019Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T16:10:00.152Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T16:10:00.152Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T16:10:00.365Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T16:10:00.416Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T16:11:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:12:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:13:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:15:56.658Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T16:15:56.974Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T16:15:57.413Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T16:15:57.415Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T16:15:57.416Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T16:15:57.416Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T16:15:57.417Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T16:15:57.417Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T16:15:57.418Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T16:15:57.419Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T16:15:57.422Z [info][Notifications]: Registered notification agents 
+2026-06-02T16:15:57.450Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T16:15:57.538Z [info][Server]: Server ready on port 5055 
+2026-06-02T16:16:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:17:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:18:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:18:39.129Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T16:18:39.471Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T16:18:39.921Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T16:18:39.922Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T16:18:39.923Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T16:18:39.923Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T16:18:39.924Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T16:18:39.924Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T16:18:39.925Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T16:18:39.926Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T16:18:39.928Z [info][Notifications]: Registered notification agents 
+2026-06-02T16:18:39.955Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T16:18:40.056Z [info][Server]: Server ready on port 5055 
+2026-06-02T16:19:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:20:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:20:00.016Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T16:20:00.016Z [info][Jellyfin Sync]: Scan starting {"sessionId":"09848ab4-31a5-48de-a94f-27b222786722"}
+2026-06-02T16:20:00.020Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T16:20:00.174Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T16:20:00.175Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T16:20:00.397Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T16:20:00.449Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T16:20:47.726Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T16:20:48.049Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T16:20:48.502Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T16:20:48.503Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T16:20:48.504Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T16:20:48.505Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T16:20:48.506Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T16:20:48.506Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T16:20:48.507Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T16:20:48.508Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T16:20:48.511Z [info][Notifications]: Registered notification agents 
+2026-06-02T16:20:48.539Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T16:20:48.624Z [info][Server]: Server ready on port 5055 
+2026-06-02T16:21:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:22:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:23:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:23:42.195Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T16:23:42.507Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T16:23:42.955Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T16:23:42.956Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T16:23:42.957Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T16:23:42.958Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T16:23:42.959Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T16:23:42.959Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T16:23:42.960Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T16:23:42.960Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T16:23:42.963Z [info][Notifications]: Registered notification agents 
+2026-06-02T16:23:42.993Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T16:23:43.090Z [info][Server]: Server ready on port 5055 
+2026-06-02T16:24:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:25:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:25:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T16:25:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"79ea3b38-022b-4b1e-8c9c-8bff5fbe9b4d"}
+2026-06-02T16:25:00.012Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T16:25:00.145Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T16:25:00.145Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T16:25:00.355Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T16:25:00.404Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T16:26:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:27:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:28:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:29:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:30:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:30:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T16:30:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"b7a046ce-20a5-4def-b504-2c542740b1b1"}
+2026-06-02T16:30:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T16:30:00.048Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T16:30:00.081Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T16:31:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:32:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:32:17.075Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T16:32:17.405Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T16:32:17.859Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T16:32:17.861Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T16:32:17.862Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T16:32:17.863Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T16:32:17.863Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T16:32:17.863Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T16:32:17.864Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T16:32:17.865Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T16:32:17.868Z [info][Notifications]: Registered notification agents 
+2026-06-02T16:32:17.898Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T16:32:17.999Z [info][Server]: Server ready on port 5055 
+2026-06-02T16:33:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:34:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:35:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:35:00.012Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T16:35:00.013Z [info][Jellyfin Sync]: Scan starting {"sessionId":"0cb923d6-c3a4-4075-9786-aaadebc5aee7"}
+2026-06-02T16:35:00.017Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T16:35:00.145Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T16:35:00.145Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T16:35:00.363Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T16:35:00.414Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T16:36:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:37:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:38:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:38:09.912Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T16:38:10.247Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T16:38:10.693Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T16:38:10.695Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T16:38:10.696Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T16:38:10.696Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T16:38:10.697Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T16:38:10.697Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T16:38:10.698Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T16:38:10.698Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T16:38:10.701Z [info][Notifications]: Registered notification agents 
+2026-06-02T16:38:10.728Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T16:38:10.811Z [info][Server]: Server ready on port 5055 
+2026-06-02T16:39:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:40:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:40:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T16:40:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"0d09010f-4ebe-4ded-b2e3-b92f688cb6e2"}
+2026-06-02T16:40:00.014Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T16:40:00.144Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T16:40:00.144Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T16:40:00.357Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T16:40:00.408Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T16:40:31.036Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T16:40:31.364Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T16:40:31.807Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T16:40:31.808Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T16:40:31.809Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T16:40:31.809Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T16:40:31.810Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T16:40:31.810Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T16:40:31.811Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T16:40:31.812Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T16:40:31.814Z [info][Notifications]: Registered notification agents 
+2026-06-02T16:40:31.842Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T16:40:31.926Z [info][Server]: Server ready on port 5055 
+2026-06-02T16:41:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:42:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:43:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:44:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:45:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:45:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T16:45:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"ac13f2cc-dc82-45b7-bf29-12f2427ddf47"}
+2026-06-02T16:45:00.014Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T16:45:00.143Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T16:45:00.143Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T16:45:00.357Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T16:45:00.406Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T16:46:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:47:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:48:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:49:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:50:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T16:50:00.011Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T16:50:00.011Z [info][Jellyfin Sync]: Scan starting {"sessionId":"2c97a3dd-12ea-4fcd-a460-4174ea1d14ab"}
+2026-06-02T16:50:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T16:50:00.048Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T16:50:00.079Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T17:00:09.432Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T17:00:09.764Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T17:00:10.204Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T17:00:10.205Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T17:00:10.206Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T17:00:10.207Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T17:00:10.208Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T17:00:10.208Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T17:00:10.209Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T17:00:10.209Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T17:00:10.212Z [info][Notifications]: Registered notification agents 
+2026-06-02T17:00:10.245Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T17:00:10.334Z [info][Server]: Server ready on port 5055 
+2026-06-02T17:01:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:02:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:03:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:04:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:05:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:05:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T17:05:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"aca768fb-2eb1-427b-a377-ad49a5115b51"}
+2026-06-02T17:05:00.013Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T17:05:00.141Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T17:05:00.141Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T17:05:00.358Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T17:05:00.407Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T17:06:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:07:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:08:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:23:08.196Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T17:23:08.530Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T17:23:08.985Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T17:23:08.987Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T17:23:08.988Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T17:23:08.989Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T17:23:08.989Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T17:23:08.989Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T17:23:08.990Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T17:23:08.991Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T17:23:08.994Z [info][Notifications]: Registered notification agents 
+2026-06-02T17:23:09.023Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T17:23:09.116Z [info][Server]: Server ready on port 5055 
+2026-06-02T17:24:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:25:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:25:00.030Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T17:25:00.031Z [info][Jellyfin Sync]: Scan starting {"sessionId":"8611a09c-bc3a-463b-a234-dbb741c69bbb"}
+2026-06-02T17:25:00.037Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T17:25:00.167Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T17:25:00.167Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T17:25:00.394Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T17:25:00.445Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T17:26:00.009Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:27:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:28:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:29:01.459Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T17:29:01.770Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T17:29:02.214Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T17:29:02.216Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T17:29:02.217Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T17:29:02.218Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T17:29:02.218Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T17:29:02.219Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T17:29:02.219Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T17:29:02.220Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T17:29:02.223Z [info][Notifications]: Registered notification agents 
+2026-06-02T17:29:02.253Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T17:29:02.352Z [info][Server]: Server ready on port 5055 
+2026-06-02T17:30:00.035Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:30:00.039Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T17:30:00.039Z [info][Jellyfin Sync]: Scan starting {"sessionId":"b720c9e7-051c-465f-8d63-9ed141b3cad2"}
+2026-06-02T17:30:00.046Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T17:30:00.174Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T17:30:00.175Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T17:30:00.403Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T17:30:00.454Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T17:31:00.035Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:32:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:32:20.220Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T17:32:20.541Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T17:32:20.985Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T17:32:20.986Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T17:32:20.987Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T17:32:20.988Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T17:32:20.988Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T17:32:20.988Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T17:32:20.989Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T17:32:20.990Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T17:32:20.993Z [info][Notifications]: Registered notification agents 
+2026-06-02T17:32:21.021Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T17:32:21.108Z [info][Server]: Server ready on port 5055 
+2026-06-02T17:33:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:34:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:35:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:35:00.019Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T17:35:00.019Z [info][Jellyfin Sync]: Scan starting {"sessionId":"09ecbe29-81e3-40d0-b220-8dbffd10b7e1"}
+2026-06-02T17:35:00.023Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T17:35:00.149Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T17:35:00.149Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T17:35:00.368Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T17:35:00.418Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T17:36:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:37:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:38:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:39:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:40:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:40:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T17:40:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"425c9b7a-ebf1-4c65-bcb1-6e1b7773ef2d"}
+2026-06-02T17:40:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T17:40:00.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T17:40:00.071Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T17:41:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:42:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:43:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:44:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:45:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:45:00.016Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T17:45:00.016Z [info][Jellyfin Sync]: Scan starting {"sessionId":"2b07fec7-77e9-40fc-b43c-5a3fa7665bd0"}
+2026-06-02T17:45:00.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T17:45:00.045Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T17:45:00.070Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T17:53:47.502Z [info]: Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49 
+2026-06-02T17:53:47.896Z [info]: Starting Seerr version 3.2.0 
+2026-06-02T17:53:48.387Z [debug][Settings Migrator]: Checking migration '0001_migrate_hostname.js'... 
+2026-06-02T17:53:48.389Z [debug][Settings Migrator]: Checking migration '0002_migrate_apitokens.js'... 
+2026-06-02T17:53:48.390Z [debug][Settings Migrator]: Checking migration '0003_emby_media_server_type.js'... 
+2026-06-02T17:53:48.390Z [debug][Settings Migrator]: Checking migration '0004_migrate_region_setting.js'... 
+2026-06-02T17:53:48.391Z [debug][Settings Migrator]: Checking migration '0005_migrate_network_settings.js'... 
+2026-06-02T17:53:48.392Z [debug][Settings Migrator]: Checking migration '0006_remove_lunasea.js'... 
+2026-06-02T17:53:48.392Z [debug][Settings Migrator]: Checking migration '0007_migrate_arr_tags.js'... 
+2026-06-02T17:53:48.393Z [debug][Settings Migrator]: Checking migration '0008_migrate_blacklist_to_blocklist.js'... 
+2026-06-02T17:53:48.396Z [info][Notifications]: Registered notification agents 
+2026-06-02T17:53:48.430Z [info][Jobs]: Scheduled jobs loaded 
+2026-06-02T17:53:48.514Z [info][Server]: Server ready on port 5055 
+2026-06-02T17:54:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:55:00.038Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:55:00.045Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T17:55:00.045Z [info][Jellyfin Sync]: Scan starting {"sessionId":"5ec4c0e0-60e5-4712-92ff-af7cc9038a0f"}
+2026-06-02T17:55:00.049Z [info][Anime-List Sync]: Loading mapping file 
+2026-06-02T17:55:00.178Z [info][Anime-List Sync]: Loaded 10688 AniDB items from mapping file 
+2026-06-02T17:55:00.178Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T17:55:00.408Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T17:55:00.460Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T17:56:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:57:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:58:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T17:59:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:00:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:00:00.024Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:00:00.025Z [info][Jellyfin Sync]: Scan starting {"sessionId":"f109529c-f5ea-497e-8a67-4d5199c20dad"}
+2026-06-02T18:00:00.028Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:00:00.062Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:00:00.092Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:01:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:02:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:03:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:04:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:05:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:05:00.019Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:05:00.019Z [info][Jellyfin Sync]: Scan starting {"sessionId":"f1694353-57ff-44ae-8c64-433c86cc63fb"}
+2026-06-02T18:05:00.021Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:05:00.047Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:05:00.070Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:06:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:07:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:08:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:09:00.021Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:10:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:10:00.019Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:10:00.019Z [info][Jellyfin Sync]: Scan starting {"sessionId":"9bab9602-3978-44a6-8886-1dbe9d88efe8"}
+2026-06-02T18:10:00.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:10:00.045Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:10:00.074Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:11:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:12:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:13:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:14:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:15:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:15:00.017Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:15:00.018Z [info][Jellyfin Sync]: Scan starting {"sessionId":"16db73ab-a49d-4c20-8111-8cc6a926c713"}
+2026-06-02T18:15:00.020Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:15:00.042Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:15:00.064Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:16:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:17:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:18:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:19:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:20:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:20:00.017Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:20:00.017Z [info][Jellyfin Sync]: Scan starting {"sessionId":"28d684e2-06a0-4571-ae15-453a1ea92f09"}
+2026-06-02T18:20:00.020Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:20:00.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:20:00.066Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:21:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:22:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:23:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:24:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:25:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:25:00.015Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:25:00.016Z [info][Jellyfin Sync]: Scan starting {"sessionId":"acaba9b0-aee1-437b-9942-58b45bf5ca81"}
+2026-06-02T18:25:00.018Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:25:00.040Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:25:00.063Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:26:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:27:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:28:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:29:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:30:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:30:00.011Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:30:00.011Z [info][Jellyfin Sync]: Scan starting {"sessionId":"d21eb8e4-9734-4fd7-a070-e2a5be08f49d"}
+2026-06-02T18:30:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:30:00.037Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:30:00.058Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:31:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:32:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:33:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:34:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:35:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:35:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:35:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"1943684d-ebaa-4255-b85c-57e3c47460b7"}
+2026-06-02T18:35:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:35:00.033Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:35:00.055Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:36:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:37:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:38:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:39:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:40:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:40:00.015Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:40:00.016Z [info][Jellyfin Sync]: Scan starting {"sessionId":"547244a1-50d8-4ef3-9e07-795cb42bb776"}
+2026-06-02T18:40:00.018Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:40:00.040Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:40:00.062Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:41:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:42:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:43:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:44:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:45:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:45:00.012Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:45:00.013Z [info][Jellyfin Sync]: Scan starting {"sessionId":"63f70077-7cfd-456e-bf07-cdbb517d9131"}
+2026-06-02T18:45:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:45:00.038Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:45:00.060Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:46:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:47:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:48:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:49:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:50:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:50:00.016Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:50:00.016Z [info][Jellyfin Sync]: Scan starting {"sessionId":"051a4c91-b4d0-46a6-b6a0-eeba782f41e5"}
+2026-06-02T18:50:00.018Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:50:00.042Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:50:00.068Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:51:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:52:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:53:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:54:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:55:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:55:00.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T18:55:00.009Z [info][Jellyfin Sync]: Scan starting {"sessionId":"f5d008be-b313-4011-bd7c-5360c9c109b9"}
+2026-06-02T18:55:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T18:55:00.033Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T18:55:00.054Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T18:56:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:57:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:58:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T18:59:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:00:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:00:00.017Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T19:00:00.017Z [info][Jellyfin Sync]: Scan starting {"sessionId":"280b529a-4c2c-460d-84ae-ecb98ebf85ae"}
+2026-06-02T19:00:00.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T19:00:00.044Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T19:00:00.065Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T19:01:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:02:00.010Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:03:00.016Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:04:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:05:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:05:00.017Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T19:05:00.017Z [info][Jellyfin Sync]: Scan starting {"sessionId":"7f5d6433-53cb-46fd-b4ac-6680fe300985"}
+2026-06-02T19:05:00.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T19:05:00.041Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T19:05:00.064Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T19:06:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:07:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:08:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:09:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:10:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:10:00.016Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T19:10:00.017Z [info][Jellyfin Sync]: Scan starting {"sessionId":"76ca9159-5b5a-4a6a-b83f-c235c0415c77"}
+2026-06-02T19:10:00.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T19:10:00.042Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T19:10:00.065Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T19:11:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:12:00.013Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:13:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:14:00.011Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:15:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:15:00.018Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-02T19:15:00.018Z [info][Jellyfin Sync]: Scan starting {"sessionId":"2730725e-9f13-48e5-a7d2-fe2381396997"}
+2026-06-02T19:15:00.022Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-02T19:15:00.046Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-02T19:15:00.076Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-02T19:16:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:17:00.012Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-02T19:18:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 

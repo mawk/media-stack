@@ -1,0 +1,22 @@
+services:
+  gluetun-test:
+    image: qmcgaw/gluetun:latest
+    container_name: gluetun-vpn-test
+    cap_add:
+      - NET_ADMIN
+    devices:
+      - /dev/net/tun
+    environment:
+      - VPN_SERVICE_PROVIDER=surfshark
+      - VPN_TYPE=openvpn
+      - OPENVPN_USER=${OPENVPN_USER}
+      - OPENVPN_PASSWORD=${OPENVPN_PASSWORD}
+      - OPENVPN_PROTOCOL=udp
+      - FIREWALL=on
+      - DOT=on
+      - LOG_LEVEL=debug
+
+    ports:
+      - "8000:8000"
+      - "9999:9999"
+    restart: unless-stopped
