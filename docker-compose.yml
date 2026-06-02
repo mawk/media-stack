@@ -193,6 +193,17 @@ services:
       - TZ=UTC
     restart: unless-stopped
     
+  nginx:
+    image: nginx:alpine
+    container_name: nginx
+    restart: unless-stopped
+    ports:
+      - 80:80                            # Opens standard local HTTP traffic
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro  # Mounts your local config as read-only (./nginx.conf in the media-stack dir is the local file here)
+    networks:
+      - mynetwork  
+
 volumes:
   gluetun-data:
   torrent-downloads:

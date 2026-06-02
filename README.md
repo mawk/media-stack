@@ -84,9 +84,6 @@ Once updated, follow the steps below to deploy the stack with VPN.
 
 ```bash
 VPN_SERVICE_PROVIDER=nordvpn OPENVPN_USER=openvpn-username OPENVPN_PASSWORD=openvpn-password SERVER_COUNTRIES=Switzerland RADARR_STATIC_CONTAINER_IP=radarr-container-static-ip SONARR_STATIC_CONTAINER_IP=sonarr-container-static-ip docker compose --profile vpn up -d
-
-# OPTIONAL: Use Nginx as a reverse proxy
-# docker compose -f docker-compose-nginx.yml up -d
 ```  
 
 ### Static Container IP Requirement  
@@ -199,14 +196,23 @@ Recommendarr is an AI based movies/tvshows recommendation tool. To use this you 
 - Settings --> Jellyfin --> Jellyfin URL (http://jellyfin:8096) --> API Keys (Jellyfin API Key) --> User ID (Add your jellyfin user id) --> Test Connection --> Save Jellyfin settings
 - Test recommendarr: Recommendations --> Choose LLM Model from drop down list --> Enable Jellyfin Watch History toggle --> Select language --> Choose genres --> Discover recommendations
 - You should be able to see recommendations based on your Jellyfin watch history
+## Kick off Nginx Container
+
+- First step is to kick off the nginx container, which gets the nginx process up and running
+
+`docker compose -f docker-compose-nginx.yml up -d`
 
 ## Configure Nginx
 
-- Get inside Nginx container
-- `cd /etc/nginx/conf.d`
-- Add proxies for all tools.
+- Then we'll want to modify the nginx configuration based on our local `nginx.conf` file
+    - This is more durable than a temporary container file
 
-`docker cp nginx.conf nginx:/etc/nginx/conf.d/default.conf && docker exec -it nginx nginx -s reload`
+`docker cp nginx.conf nginx:/etc/nginx/conf.d/default.conf`
+
+- Then we need to reload the nginx container with the modified configuration file to force this updated configuration file to take effect
+
+`docker exec -it nginx nginx -s reload`
+
 - Close ports of other tools in firewall/security groups except port 80 and 443.
 
 
