@@ -87,28 +87,30 @@
    "preventSearch": false,
    "tagRequests": false,
    "id": 0
-  },
+  }
+ ],
+ "sonarr": [
   {
    "name": "mawk_sonarr",
    "hostname": "172.20.0.11",
    "port": 8989,
    "apiKey": "81ccb8a632974989bd1f318d3ed2d356",
    "useSsl": false,
-   "baseUrl": "",
    "activeProfileId": 1,
    "activeProfileName": "Any",
    "activeDirectory": "/downloads/tvshows",
-   "is4k": false,
-   "minimumAvailability": "inCinemas",
    "tags": [],
-   "isDefault": false,
+   "animeTags": [],
+   "is4k": false,
+   "isDefault": true,
+   "enableSeasonFolders": false,
    "syncEnabled": false,
    "preventSearch": false,
    "tagRequests": false,
-   "id": 1
+   "monitorNewItems": "all",
+   "id": 0
   }
  ],
- "sonarr": [],
  "public": {
   "initialized": true
  },
