@@ -1039,3 +1039,98 @@
 {"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:16:00.012Z"}
 {"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:17:00.012Z"}
 {"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:18:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:19:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:20:00.012Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-02T19:20:00.016Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"7a63f782-7c55-4b4c-93de-a64c0e477647","timestamp":"2026-06-02T19:20:00.017Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-02T19:20:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-02T19:20:00.048Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-02T19:20:00.071Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:21:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:22:00.012Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:23:00.015Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:24:00.011Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:25:00.013Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-02T19:25:00.015Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"ffc464f0-8d92-4047-aeaf-7427f49a73c0","timestamp":"2026-06-02T19:25:00.016Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-02T19:25:00.018Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-02T19:25:00.042Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-02T19:25:00.065Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:26:00.003Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:27:00.010Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:28:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:29:00.012Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:30:00.013Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-02T19:30:00.015Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"c578b61d-d0bb-42fe-ac0c-a9ef8c980610","timestamp":"2026-06-02T19:30:00.015Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-02T19:30:00.018Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-02T19:30:00.042Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-02T19:30:00.067Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:31:00.009Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:32:00.011Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:33:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:34:00.011Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:35:00.012Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-02T19:35:00.016Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"a9981e9a-eb1a-4f9c-9fb8-d6cb31a760fb","timestamp":"2026-06-02T19:35:00.016Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-02T19:35:00.019Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-02T19:35:00.041Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-02T19:35:00.064Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:36:00.009Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:37:00.011Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:38:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:39:00.010Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:40:00.013Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-02T19:40:00.016Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"a24b807e-d1b2-4e01-8d50-c39fa349122f","timestamp":"2026-06-02T19:40:00.016Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-02T19:40:00.019Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-02T19:40:00.044Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-02T19:40:00.068Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:41:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:42:00.008Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:43:00.011Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:44:00.012Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:45:00.011Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-02T19:45:00.014Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"b0b42ed3-c2f1-4d69-b309-720e22fe3be4","timestamp":"2026-06-02T19:45:00.014Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-02T19:45:00.017Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-02T19:45:00.038Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-02T19:45:00.063Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:46:00.012Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:47:00.009Z"}
+{"level":"info","message":"Commit Tag: e4ee71ae459cd45b66ad59b4b90c01e102e28e49","timestamp":"2026-06-02T19:47:36.141Z"}
+{"level":"info","message":"Starting Seerr version 3.2.0","timestamp":"2026-06-02T19:47:36.476Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0001_migrate_hostname.js'...","timestamp":"2026-06-02T19:47:36.954Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0002_migrate_apitokens.js'...","timestamp":"2026-06-02T19:47:36.956Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0003_emby_media_server_type.js'...","timestamp":"2026-06-02T19:47:36.957Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0004_migrate_region_setting.js'...","timestamp":"2026-06-02T19:47:36.958Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0005_migrate_network_settings.js'...","timestamp":"2026-06-02T19:47:36.958Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0006_remove_lunasea.js'...","timestamp":"2026-06-02T19:47:36.959Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0007_migrate_arr_tags.js'...","timestamp":"2026-06-02T19:47:36.959Z"}
+{"label":"Settings Migrator","level":"debug","message":"Checking migration '0008_migrate_blacklist_to_blocklist.js'...","timestamp":"2026-06-02T19:47:36.961Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2026-06-02T19:47:36.964Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2026-06-02T19:47:36.993Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2026-06-02T19:47:37.098Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:48:00.005Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:49:00.018Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:50:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-02T19:50:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"9313121e-6d4a-4b6d-8d8b-77ab2b4f0ca5","timestamp":"2026-06-02T19:50:00.029Z"}
+{"label":"Anime-List Sync","level":"info","message":"Loading mapping file","timestamp":"2026-06-02T19:50:00.032Z"}
+{"label":"Anime-List Sync","level":"info","message":"Loaded 10688 AniDB items from mapping file","timestamp":"2026-06-02T19:50:00.153Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-02T19:50:00.154Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-02T19:50:00.200Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-02T19:50:00.225Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:51:00.031Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:52:00.031Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:53:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:54:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:55:00.029Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-02T19:55:00.031Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"d707eae9-412c-4cc1-a101-e71db95abbce","timestamp":"2026-06-02T19:55:00.031Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-02T19:55:00.034Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-02T19:55:00.058Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-02T19:55:00.083Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:56:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:57:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-02T19:58:00.021Z"}

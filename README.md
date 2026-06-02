@@ -180,8 +180,8 @@ Sonarr can also be configured in similar way.
 - Open Prowlarr at http://localhost:9696
 - Settings --> General --> Authentications --> Select Authentication and add username and password
 - Add Indexers, Indexers --> Add Indexer --> Search for indexer --> Choose base URL --> Test and Save
-- Add application, Settings --> Apps --> Add application --> Choose Radarr --> Prowlarr server (http://prowlarr:9696) --> Radarr server (http://radarr:7878) --> API Key --> Test and Save
-- Add application, Settings --> Apps --> Add application --> Choose Sonarr --> Prowlarr server (http://prowlarr:9696) --> Sonarr server (http://sonarr:8989) --> API Key --> Test and Save
+- Add application, Settings --> Apps --> Add application --> Choose Radarr --> Prowlarr server (http://vpn:9696) --> Radarr server (http://<RADARR_STATIC_CONTAINER_IP=>:7878) --> API Key --> Test and Save
+- Add application, Settings --> Apps --> Add application --> Choose Sonarr --> Prowlarr server (http://vpn:8989) --> Sonarr server (http://<SONARR_STATIC_CONTAINER_IP=>:8989) --> API Key --> Test and Save
 - This will add indexers in respective apps automatically.
 
 **Note: If VPN is enabled, then Prowlarr will not be able to reach radarr and sonarr with localhost or container service name. In that case use static IP for sonarr and radarr in radarr/sonarr server field (for e.g. http://172.19.0.5:8989). Prowlar will also be not reachable with its container/service name. Use `http://vpn:9696` instead in prowlar server field.**
