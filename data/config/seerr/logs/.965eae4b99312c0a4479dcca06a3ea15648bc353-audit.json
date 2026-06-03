@@ -9,6 +9,11 @@
             "date": 1780369863803,
             "name": "/app/config/logs/seerr-2026-06-02.log",
             "hash": "276ba552dfbef12cb2ec6ff4d1adaea95950659a3f6cc39e1d6bd4e082f0f297"
+        },
+        {
+            "date": 1780444800027,
+            "name": "/app/config/logs/seerr-2026-06-03.log",
+            "hash": "0942e893ea14ef0f0cc22c2cec108a746b8c512262504458bee1d19c825cc38e"
         }
     ],
     "hashType": "sha256"

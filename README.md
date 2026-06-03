@@ -198,23 +198,22 @@ Recommendarr is an AI based movies/tvshows recommendation tool. To use this you 
 - You should be able to see recommendations based on your Jellyfin watch history
 ## Kick off Nginx Container
 
-- First step is to kick off the nginx container, which gets the nginx process up and running
-
-`docker compose -f docker-compose-nginx.yml up -d`
+- nginx is now contained within the primary `docker-compose.yml`, so it should already be running as a part of the docker container we kicked off earlier:
+`docker compose --profile vpn up -d`
 
 ## Configure Nginx
 
-- Then we'll want to modify the nginx configuration based on our local `nginx.conf` file
-    - This is more durable than a temporary container file
-
-`docker cp nginx.conf nginx:/etc/nginx/conf.d/default.conf`
-
-- Then we need to reload the nginx container with the modified configuration file to force this updated configuration file to take effect
-
-`docker exec -it nginx nginx -s reload`
-
-- Close ports of other tools in firewall/security groups except port 80 and 443.
-
+- Note that the nginx container we set up in the `docker-compose.yml` has a volume linked to a local nginx.conf file:
+```
+volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro  # Mounts your local config as read-only (./nginx.conf in the media-stack dir is the local file here)
+```
+- This mounts your local config as read-only within the nginx docker container.
+- The `./nginx.conf` to the left of the `:` refers to the local `nginx.conf` file in the local media-stack directory
+- By updating that local `nginx.conf` file we're able to apply updated nginx settings by then reloading the nginx container:
+```
+docker exec -it nginx nginx -s reload
+```
 
 ## Apply SSL in Nginx
 

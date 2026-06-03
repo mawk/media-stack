@@ -172,6 +172,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=UTC
+      #- JELLYFIN_PublishedServerUrl=
     volumes:
       - jellyfin-config:/config
       - torrent-downloads:/data

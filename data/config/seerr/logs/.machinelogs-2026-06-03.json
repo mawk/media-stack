@@ -1,0 +1,573 @@
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:00:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:00:00.036Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"9df964ac-72c7-473b-b018-083f9c1b5f1e","timestamp":"2026-06-03T00:00:00.036Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:00:00.042Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:00:00.064Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:00:00.093Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:00:04.098Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:01:00.017Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:02:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:03:00.008Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:04:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:05:00.018Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:05:00.020Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"e0cba131-1d2b-4b12-aeeb-36273d7670e2","timestamp":"2026-06-03T00:05:00.020Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:05:00.022Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:05:00.044Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:05:00.071Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:05:04.076Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:06:00.020Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:07:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:08:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:09:00.005Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:10:00.026Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:10:00.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"2306bc6d-19cf-499e-88f9-bd44406e4c5d","timestamp":"2026-06-03T00:10:00.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:10:00.029Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:10:00.051Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:10:00.079Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:10:04.084Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:11:00.004Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:12:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:13:00.021Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:14:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:15:00.004Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:15:00.005Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"0d808877-4336-44d9-b296-e91784083a66","timestamp":"2026-06-03T00:15:00.006Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:15:00.008Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:15:00.031Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:15:00.056Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:15:04.057Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:16:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:17:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:18:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:19:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:20:00.002Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:20:00.003Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"3dc95bae-ace5-442a-a595-ff5cba866143","timestamp":"2026-06-03T00:20:00.003Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:20:00.005Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:20:00.028Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:20:00.060Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:20:04.060Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:21:00.017Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:22:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:23:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:24:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:25:00.008Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:25:00.011Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"d7012962-c787-43b2-a6b9-55f7343f9e4b","timestamp":"2026-06-03T00:25:00.011Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:25:00.013Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:25:00.038Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:25:00.063Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:25:04.068Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:26:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:27:00.017Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:28:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:29:00.000Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:30:00.024Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:30:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"b8d4fa34-7b96-45e4-b256-1e96254f9e93","timestamp":"2026-06-03T00:30:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:30:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:30:00.049Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:30:00.077Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:30:04.077Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:31:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:32:00.016Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:33:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:34:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:35:00.001Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:35:00.002Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"4541301e-6dc0-44d7-9b0b-ccc417cf5db7","timestamp":"2026-06-03T00:35:00.002Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:35:00.005Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:35:00.028Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:35:00.056Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:35:04.061Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:36:00.009Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:37:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:38:00.009Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:39:00.002Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:40:00.010Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:40:00.013Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"78b946ae-0bbf-443f-9229-e87ead07bfad","timestamp":"2026-06-03T00:40:00.014Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:40:00.016Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:40:00.040Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:40:00.069Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:40:04.074Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:41:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:42:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:43:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:44:00.012Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:45:00.024Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:45:00.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"efa283a5-f578-468b-9cca-7fd92f114107","timestamp":"2026-06-03T00:45:00.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:45:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:45:00.052Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:45:00.084Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:45:04.089Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:46:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:47:00.023Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:48:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:49:00.023Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:50:00.007Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:50:00.008Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"c12de488-bb81-432f-94b0-c453abfbc529","timestamp":"2026-06-03T00:50:00.008Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:50:00.011Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:50:00.036Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:50:00.061Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:50:04.066Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:51:00.005Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:52:00.019Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:53:00.022Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:54:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:55:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T00:55:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"f858bdab-2afa-4118-af4a-a654469f8868","timestamp":"2026-06-03T00:55:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T00:55:00.029Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T00:55:00.052Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T00:55:00.081Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T00:55:04.085Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:56:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:57:00.008Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:58:00.010Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T00:59:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:00:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:00:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"5fd01ce5-23d2-4098-ae75-9eb255e545dc","timestamp":"2026-06-03T01:00:00.028Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Download Sync Reset","timestamp":"2026-06-03T01:00:00.030Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:00:00.031Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:00:00.055Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:00:00.081Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:00:04.086Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:01:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:02:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:03:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:04:00.010Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:05:00.026Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:05:00.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"4355bbdb-4013-48f8-baee-8c3babe24d13","timestamp":"2026-06-03T01:05:00.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:05:00.029Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:05:00.053Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:05:00.078Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:05:04.083Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:06:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:07:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:08:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:09:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:10:00.022Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:10:00.023Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"bd3ab00c-82df-4ce4-ac8e-fa822c135c4a","timestamp":"2026-06-03T01:10:00.023Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:10:00.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:10:00.051Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:10:00.078Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:10:04.082Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:11:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:12:00.000Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:13:00.010Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:14:00.015Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:15:00.023Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:15:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"0509fd7f-9a23-4dd9-ac6c-ae3896414079","timestamp":"2026-06-03T01:15:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:15:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:15:00.051Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:15:00.083Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:15:04.087Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:16:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:17:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:18:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:19:00.006Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:20:00.007Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:20:00.009Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"6337b110-2bba-4d64-91c8-2001696656d1","timestamp":"2026-06-03T01:20:00.010Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:20:00.012Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:20:00.037Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:20:00.066Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:20:04.072Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:21:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:22:00.031Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:23:00.004Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:24:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:25:00.026Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:25:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"dca5a226-64be-48cd-a213-34f46e5a0cbb","timestamp":"2026-06-03T01:25:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:25:00.030Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:25:00.054Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:25:00.082Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:25:04.087Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:26:00.031Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:27:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:28:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:29:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:30:00.026Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:30:00.029Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"1a87884d-2d0c-4d95-8c00-a6bfc0bb785f","timestamp":"2026-06-03T01:30:00.029Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:30:00.031Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:30:00.056Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:30:00.080Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:30:04.084Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:31:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:32:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:33:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:34:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:35:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:35:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"ce59a3b2-94b9-41f8-8df3-1daf410e16d1","timestamp":"2026-06-03T01:35:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:35:00.029Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:35:00.052Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:35:00.077Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:35:04.082Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:36:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:37:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:38:00.017Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:39:00.003Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:40:00.002Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:40:00.004Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"a718b1a2-47a1-48e9-b0ac-4dac840d1975","timestamp":"2026-06-03T01:40:00.004Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:40:00.006Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:40:00.038Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:40:00.065Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:40:04.070Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:41:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:42:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:43:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:44:00.016Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:45:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:45:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"d3b2191a-fa52-43fe-884b-aff4b220a732","timestamp":"2026-06-03T01:45:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:45:00.030Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:45:00.052Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:45:00.078Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:45:04.079Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:46:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:47:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:48:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:49:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:50:00.004Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:50:00.006Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"3665f852-6412-471f-909e-391434227b71","timestamp":"2026-06-03T01:50:00.006Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:50:00.009Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:50:00.033Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:50:00.058Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:50:04.062Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:51:00.015Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:52:00.006Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:53:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:54:00.008Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:55:00.007Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T01:55:00.009Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"401751be-d099-4f2f-a34d-dbc0475d6515","timestamp":"2026-06-03T01:55:00.009Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T01:55:00.012Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T01:55:00.034Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T01:55:00.070Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T01:55:04.073Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:56:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:57:00.010Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:58:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T01:59:00.012Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:00:00.015Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:00:00.017Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"aa9c81f6-d623-4dba-95e0-91a3404bb946","timestamp":"2026-06-03T02:00:00.017Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:00:00.019Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:00:00.042Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:00:00.067Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:00:04.072Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:01:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:02:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:03:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:04:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:05:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:05:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"1ae699a2-693b-4da0-ae0b-084f1e8d0861","timestamp":"2026-06-03T02:05:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:05:00.029Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:05:00.054Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:05:00.082Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:05:04.086Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:06:00.005Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:07:00.020Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:08:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:09:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:10:00.026Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:10:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"68850aba-efe0-4a3d-a23d-ee4e4fec52bf","timestamp":"2026-06-03T02:10:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:10:00.030Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:10:00.053Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:10:00.083Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:10:04.088Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:11:00.002Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:12:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:13:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:14:00.010Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:15:00.009Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:15:00.010Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"d6efa4b3-e8e6-49b8-a7a7-e9479fe5d61b","timestamp":"2026-06-03T02:15:00.010Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:15:00.013Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:15:00.037Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:15:00.066Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:15:04.071Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:16:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:17:00.005Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:18:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:19:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:20:00.010Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:20:00.012Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"c988000b-a4f9-4eb9-b4a2-bc41ecb083a7","timestamp":"2026-06-03T02:20:00.012Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:20:00.015Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:20:00.038Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:20:00.068Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:20:04.073Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:21:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:22:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:23:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:24:00.005Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:25:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:25:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"63a6a7b7-63b6-4050-98de-1552921c7648","timestamp":"2026-06-03T02:25:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:25:00.030Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:25:00.053Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:25:00.079Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:25:04.080Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:26:00.015Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:27:00.016Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:28:00.018Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:29:00.017Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:30:00.017Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:30:00.020Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"8a2423ef-5881-427f-8636-a54034dd1391","timestamp":"2026-06-03T02:30:00.020Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:30:00.022Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:30:00.044Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:30:00.070Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:30:04.075Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:31:00.019Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:32:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:33:00.020Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:34:00.021Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:35:00.024Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:35:00.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"01d82b02-cfad-4112-8957-391c4462c951","timestamp":"2026-06-03T02:35:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:35:00.029Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:35:00.052Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:35:00.078Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:35:04.083Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:36:00.023Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:37:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:38:00.021Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:39:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:40:00.010Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:40:00.012Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"bd233d12-ec8f-42b8-b89b-f886b20a669d","timestamp":"2026-06-03T02:40:00.012Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:40:00.014Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:40:00.037Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:40:00.062Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:40:04.067Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:41:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:42:00.017Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:43:00.000Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:44:00.003Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:45:00.027Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:45:00.032Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"17b00551-75a1-4a5d-9d14-696aa3c22d9e","timestamp":"2026-06-03T02:45:00.032Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:45:00.035Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:45:00.058Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:45:00.081Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:45:04.086Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:46:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:47:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:48:00.009Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:49:00.003Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:50:00.013Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:50:00.016Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"bc152e31-99c8-4f1b-9c04-b84ed9c21bd4","timestamp":"2026-06-03T02:50:00.016Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:50:00.018Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:50:00.040Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:50:00.066Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:50:04.071Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:51:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:52:00.011Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:53:00.005Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:54:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:55:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T02:55:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"1f87bf7b-ed93-472b-a42a-89c9871de83a","timestamp":"2026-06-03T02:55:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T02:55:00.030Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T02:55:00.052Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T02:55:00.076Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T02:55:04.082Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:56:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:57:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:58:00.023Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T02:59:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:00:00.023Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:00:00.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"dede1e25-9b99-4c1c-a01e-2879855d2bec","timestamp":"2026-06-03T03:00:00.026Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Full Scan","timestamp":"2026-06-03T03:00:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"e9b734ad-5b5b-474d-adc2-8d0dbfcfa871","timestamp":"2026-06-03T03:00:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process library: Movies","timestamp":"2026-06-03T03:00:00.031Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:00:00.032Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process library: Shows","timestamp":"2026-06-03T03:00:00.069Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T03:00:00.069Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T03:00:00.095Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T03:00:00.124Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Detected 1 new standard season(s) for Spider-Noir","timestamp":"2026-06-03T03:00:00.143Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: Spider-Noir","timestamp":"2026-06-03T03:00:00.155Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AVAILABLE","subject":"Spider-Noir (2026)","timestamp":"2026-06-03T03:00:00.173Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T03:00:04.100Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Full Scan Complete","timestamp":"2026-06-03T03:00:04.156Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:01:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:02:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:03:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:04:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:05:00.024Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:05:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"66065090-fdf2-4de6-8c26-8f14b18fa680","timestamp":"2026-06-03T03:05:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:05:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T03:05:00.052Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T03:05:00.082Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T03:05:04.083Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:06:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:07:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:08:00.003Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:09:00.022Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:10:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:10:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"8017dcb0-0385-44e7-8107-16c78db25b4e","timestamp":"2026-06-03T03:10:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:10:00.030Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T03:10:00.057Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T03:10:00.083Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T03:10:04.088Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:11:00.016Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:12:00.002Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:13:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:14:00.002Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:15:00.027Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:15:00.030Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"79efcd94-c477-4586-9401-2adfdc96f0c0","timestamp":"2026-06-03T03:15:00.030Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:15:00.033Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Media for Soundtrack to a Coup d'Etat exists. Changes were detected and the title will be updated.","timestamp":"2026-06-03T03:15:00.111Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Media for Sorry to Bother You exists. Changes were detected and the title will be updated.","timestamp":"2026-06-03T03:15:00.126Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AVAILABLE","subject":"Soundtrack to a Coup d'Etat (2024)","timestamp":"2026-06-03T03:15:00.128Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AVAILABLE","subject":"Sorry to Bother You (2018)","timestamp":"2026-06-03T03:15:00.133Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T03:15:04.131Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T03:15:04.158Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T03:15:08.161Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:16:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:17:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:18:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:19:00.003Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:20:00.002Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:20:00.004Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"58737e83-be92-4047-843a-b1ac310f4d4a","timestamp":"2026-06-03T03:20:00.004Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:20:00.006Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Soundtrack to a Coup d'Etat","timestamp":"2026-06-03T03:20:00.019Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Sorry to Bother You","timestamp":"2026-06-03T03:20:00.021Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T03:20:04.026Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T03:20:04.051Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T03:20:08.054Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:21:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:22:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:23:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:24:00.003Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:25:00.002Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:25:00.003Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"1c822c0c-471d-4a8f-9d34-517f4482195a","timestamp":"2026-06-03T03:25:00.004Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:25:00.006Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Soundtrack to a Coup d'Etat","timestamp":"2026-06-03T03:25:00.021Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Sorry to Bother You","timestamp":"2026-06-03T03:25:00.022Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T03:25:04.023Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T03:25:04.079Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T03:25:08.082Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:26:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:27:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:28:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:29:00.003Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:30:00.024Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:30:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"83f486a9-eaf0-4b5c-b167-2a2551695e3f","timestamp":"2026-06-03T03:30:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:30:00.028Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Soundtrack to a Coup d'Etat","timestamp":"2026-06-03T03:30:00.045Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Title already exists and no changes detected for Sorry to Bother You","timestamp":"2026-06-03T03:30:00.046Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T03:30:04.051Z"}
+{"label":"Jellyfin Sync","level":"debug","message":"Updating existing title: American Dad!","timestamp":"2026-06-03T03:30:04.078Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T03:30:08.081Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:31:00.011Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:32:00.005Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:33:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:34:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:35:00.001Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:35:00.002Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"96994683-4295-43cc-9dc4-6a142aca3930","timestamp":"2026-06-03T03:35:00.002Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:35:00.004Z"}
+{"error":404,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 404","timestamp":"2026-06-03T03:35:00.015Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2026-06-03T03:35:00.016Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:36:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:37:00.008Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:38:00.003Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:39:00.005Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:40:00.007Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:40:00.009Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"d1e7f0ee-b598-480e-a7a3-be9f57e70b3f","timestamp":"2026-06-03T03:40:00.009Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:40:00.012Z"}
+{"error":404,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 404","timestamp":"2026-06-03T03:40:00.016Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2026-06-03T03:40:00.016Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:41:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:42:00.002Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:43:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:44:00.010Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:45:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:45:00.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"db559060-d96e-4375-8929-4a416d38b200","timestamp":"2026-06-03T03:45:00.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:45:00.029Z"}
+{"error":404,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 404","timestamp":"2026-06-03T03:45:00.032Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2026-06-03T03:45:00.032Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:46:00.007Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:47:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:48:00.002Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:49:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:50:00.002Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:50:00.004Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"40285caa-e146-4ff8-8cc8-6be50f639cba","timestamp":"2026-06-03T03:50:00.004Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:50:00.008Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T03:50:04.018Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T03:50:08.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:51:00.008Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:52:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:53:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:54:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:55:00.024Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T03:55:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"f569d021-17e8-4a24-8b7a-7fa5c89a1487","timestamp":"2026-06-03T03:55:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T03:55:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T03:55:04.036Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T03:55:08.041Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:56:00.001Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:57:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:58:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T03:59:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T04:00:00.024Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T04:00:00.025Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"54b7bc75-ac6a-43cb-9772-17eadea80494","timestamp":"2026-06-03T04:00:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Radarr Scan","timestamp":"2026-06-03T04:00:00.027Z"}
+{"label":"Radarr Scan","level":"info","message":"Scan starting","sessionId":"9cd7ceaf-a4b0-4dc2-9c98-379f4c7c8051","timestamp":"2026-06-03T04:00:00.028Z"}
+{"label":"Radarr Scan","level":"debug","message":"Sync not enabled. Skipping Radarr server: mawk_radarr","timestamp":"2026-06-03T04:00:00.028Z"}
+{"label":"Radarr Scan","level":"info","message":"Radarr scan complete","timestamp":"2026-06-03T04:00:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T04:00:00.030Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T04:00:04.034Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T04:00:08.039Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T04:01:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T04:02:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T04:03:00.013Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T04:04:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T04:05:00.002Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T04:05:00.004Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"908529ba-d582-4a59-8332-27601743ef58","timestamp":"2026-06-03T04:05:00.004Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T04:05:00.007Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T04:05:04.011Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T04:05:08.017Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T04:06:00.009Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T04:07:00.017Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T04:08:00.004Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T04:09:00.002Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2026-06-03T04:10:00.004Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2026-06-03T04:10:00.005Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Scan starting","sessionId":"68e07152-429b-4301-805f-b8e1daaeb706","timestamp":"2026-06-03T04:10:00.006Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2026-06-03T04:10:00.008Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2026-06-03T04:10:04.015Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2026-06-03T04:10:08.021Z"}
