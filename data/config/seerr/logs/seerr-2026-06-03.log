@@ -571,3 +571,101 @@
 2026-06-03T04:10:00.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
 2026-06-03T04:10:04.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
 2026-06-03T04:10:08.021Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-03T04:11:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:12:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:13:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:14:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:15:00.000Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:15:00.002Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-03T04:15:00.002Z [info][Jellyfin Sync]: Scan starting {"sessionId":"fecd3420-b469-4692-b4b8-0896bc0974cd"}
+2026-06-03T04:15:00.006Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-03T04:15:04.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-03T04:15:08.021Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-03T04:16:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:17:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:18:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:19:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:20:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:20:00.010Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-03T04:20:00.010Z [info][Jellyfin Sync]: Scan starting {"sessionId":"b56a88b6-8b48-47cc-aaf3-fbc1510a9aef"}
+2026-06-03T04:20:00.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-03T04:20:04.023Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-03T04:20:08.028Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-03T04:21:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:22:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:23:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:24:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:25:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:25:00.008Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-03T04:25:00.008Z [info][Jellyfin Sync]: Scan starting {"sessionId":"4eac255b-03ff-4e5a-a477-d1e23b10ed53"}
+2026-06-03T04:25:00.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-03T04:25:04.016Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-03T04:25:08.022Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-03T04:26:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:27:00.007Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:28:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:29:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:29:04.765Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-03T04:30:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:30:00.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-03T04:30:00.007Z [info][Jellyfin Sync]: Scan starting {"sessionId":"01ea008b-57bc-4875-97b8-ae345bf318c2"}
+2026-06-03T04:30:00.010Z [info][Jobs]: Starting scheduled job: Sonarr Scan 
+2026-06-03T04:30:00.010Z [info][Sonarr Scan]: Scan starting {"sessionId":"28c56432-baed-4434-afb8-69efc57ed7cb"}
+2026-06-03T04:30:00.010Z [debug][Sonarr Scan]: Sync not enabled. Skipping Sonarr server: mawk_sonarr 
+2026-06-03T04:30:00.010Z [info][Sonarr Scan]: Sonarr scan complete 
+2026-06-03T04:30:00.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-03T04:30:04.018Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-03T04:30:08.024Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-03T04:31:00.002Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:32:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:32:08.766Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-03T04:32:31.873Z [error][Auth]: Cannot read properties of undefined (reading 'Id') 
+2026-06-03T04:33:00.008Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:34:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:35:00.004Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:35:00.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-03T04:35:00.006Z [info][Jellyfin Sync]: Scan starting {"sessionId":"393c0fb5-b645-49bf-a7f7-4482d682665d"}
+2026-06-03T04:35:00.009Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-03T04:35:04.014Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-03T04:35:08.019Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-03T04:36:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:37:00.005Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:38:00.006Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:39:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:40:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:40:00.025Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-03T04:40:00.026Z [info][Jellyfin Sync]: Scan starting {"sessionId":"63441a2d-56da-43e5-9baf-9e022bd9dbf6"}
+2026-06-03T04:40:00.028Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-03T04:40:04.036Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-03T04:40:08.044Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-03T04:41:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:42:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:43:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:44:00.017Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:45:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:45:00.004Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-03T04:45:00.004Z [info][Jellyfin Sync]: Scan starting {"sessionId":"85327c24-240c-4bdb-bd71-20e5fffe4e34"}
+2026-06-03T04:45:00.007Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-03T04:45:04.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-03T04:45:08.021Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-03T04:46:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:47:00.003Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:48:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:49:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:50:00.015Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:50:00.017Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-03T04:50:00.018Z [info][Jellyfin Sync]: Scan starting {"sessionId":"54ae68e1-9cb0-419b-b1cb-308d037edda8"}
+2026-06-03T04:50:00.020Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-03T04:50:04.028Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-03T04:50:08.033Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-03T04:51:00.000Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:52:00.001Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:53:00.024Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:54:00.014Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:55:00.025Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2026-06-03T04:55:00.026Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2026-06-03T04:55:00.026Z [info][Jellyfin Sync]: Scan starting {"sessionId":"341ed867-d6a1-4873-9661-54f2098080c8"}
+2026-06-03T04:55:00.028Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2026-06-03T04:55:04.031Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2026-06-03T04:55:08.037Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2026-06-03T04:56:00.027Z [debug][Jobs]: Starting scheduled job: Download Sync 

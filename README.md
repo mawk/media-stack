@@ -214,75 +214,33 @@ volumes:
 ```
 docker exec -it nginx nginx -s reload
 ```
-
-## Apply SSL in Nginx
-
-- Open port 80 and 443.
-- Get inside Nginx container and install certbot and certbot-nginx `apk add certbot certbot-nginx`
-- Add URL in server block. e.g. `server_name  localhost mediastack.example.com;` in /etc/nginx/conf.d/default.conf
-- Run `certbot --nginx` and provide details asked.
+- Can also just take the container down and bring it back up (or restart it):
+```
+docker compose down nginx
+docker compose up -d nginx
+```
+or
+```
+docker compose restart nginx
+```
+- At this point, the local `nginx.conf` file should have all of the settings required for each application that we want to provide a reverse proxy for (jellyfin being the main one for easy app access).
+- That said, need to update the base_url across the different applications to ensure that they're ready to accept this
 
 ## Radarr Nginx reverse proxy
 
 - Settings --> General --> URL Base --> Add base (/radarr)
-- Add below proxy in nginx configuration
-
-```
-location /radarr {
-    proxy_pass http://radarr:7878;
-    proxy_set_header Host $host;
-    proxy_set_header X-Real-IP $remote_addr;
-    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-    proxy_http_version 1.1;
-    proxy_set_header Upgrade $http_upgrade;
-    proxy_set_header Connection $http_connection;
-  }
-```
-
-- Restart containers.
 
 ## Sonarr Nginx reverse proxy
 
 - Settings --> General --> URL Base --> Add base (/sonarr)
-- Add below proxy in nginx configuration
-
-```
-location /sonarr {
-    proxy_pass http://sonarr:8989;
-    proxy_set_header Host $host;
-    proxy_set_header X-Real-IP $remote_addr;
-    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-    proxy_http_version 1.1;
-    proxy_set_header Upgrade $http_upgrade;
-    proxy_set_header Connection $http_connection;
-  }
-```
 
 ## Prowlarr Nginx reverse proxy
 
 - Settings --> General --> URL Base --> Add base (/prowlarr)
-- Add below proxy in nginx configuration
-
-This may need to change configurations in indexers and base in URL.
-
-```
-location /prowlarr {
-    proxy_pass http://prowlarr:9696; # Comment this line if VPN is enabled.
-    # proxy_pass http://vpn:9696; # Uncomment this line if VPN is enabled.
-    proxy_set_header Host $host;
-    proxy_set_header X-Real-IP $remote_addr;
-    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-    proxy_http_version 1.1;
-    proxy_set_header Upgrade $http_upgrade;
-    proxy_set_header Connection $http_connection;
-  }
-```
-
-- Restart containers.
-
-**Note: If VPN is enabled, then Prowlarr is reachable on vpn's service name**
 
 ## qBittorrent Nginx proxy
+
+- I presently don't have this enabled... not sure that I really need a reverse proxy enabled for this guy... keeping this code snippet here as a reference for now
 
 ```
 location /qbt/ {
@@ -303,57 +261,29 @@ location /qbt/ {
 ## Jellyfin Nginx proxy
 
 - Add base URL, Admin Dashboard -> Networking -> Base URL (/jellyfin)
-- Add below config in Ngix config
-
-```
- location /jellyfin {
-        return 302 $scheme://$host/jellyfin/;
-    }
-
-    location /jellyfin/ {
-
-        proxy_pass http://jellyfin:8096/jellyfin/;
-
-        proxy_pass_request_headers on;
-
-        proxy_set_header Host $host;
-
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
-        proxy_set_header X-Forwarded-Host $http_host;
-
-        proxy_set_header Upgrade $http_upgrade;
-        proxy_set_header Connection $http_connection;
-
-        # Disable buffering when the nginx proxy gets very resource heavy upon streaming
-        proxy_buffering off;
-    }
-```
 
 ## Seerr Nginx proxy
 
 **Currently Seerr doesnot officially support the subfolder/path reverse proxy. They have a workaround documented here without an official support. Find it [here](https://docs.seerr.dev/extending-seerr/reverse-proxy)**
 
+- Because seerr doesn't support the base_url, simple reverse proxy method we're using elsewhere, I opted not to leverage it for now. Again, not sure that I really need it... we'll see.
+
+## Jellyfin App Access
+
+- At this point you should be able to access your media server via the jellyfin app by using your local_comp's ip while connected to the same wifi network on your phone and referencing the jellyfin reverse proxy: `http://<comp_ip_addr>/jellyfin`
+
+- That said... nothing's ever easy. I found that I wasn't able to initially, and it turned out that I needed to add some allowances through my comp's firewall:
 ```
-location / {
-        proxy_pass http://127.0.0.1:5055;
+# Allow HTTP and HTTPS traffic through the firewall
+sudo firewall-cmd --zone=public --add-service=http --permanent
+sudo firewall-cmd --zone=public --add-service=https --permanent
 
-        proxy_set_header Referer $http_referer;
-        proxy_set_header Host $host;
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_set_header X-Real-Port $remote_port;
-        proxy_set_header X-Forwarded-Host $host:$remote_port;
-        proxy_set_header X-Forwarded-Server $host;
-        proxy_set_header X-Forwarded-Port $remote_port;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
-        proxy_set_header X-Forwarded-Ssl on;
-    }
+# Reload the firewall to apply the changes
+sudo firewall-cmd --reload
 ```
-
-- Restart containers
-
+- These updates are permanent and should persist post a reboot
+- This does not represent a vulernability at present because only port 80 is open while on my comp's network (my apartment wifi), and any traffic is going to get intercepted by nginx
+    - If I wanted to do more with this in the future (remote accessing), I'd want to set up an SSL certificate (Let's Encrypt) or route throug ha a secure local overlya network (Tailscale)
 
 ## Disclaimer  
 
