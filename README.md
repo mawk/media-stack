@@ -285,6 +285,11 @@ sudo firewall-cmd --reload
 - This does not represent a vulernability at present because only port 80 is open while on my comp's network (my apartment wifi), and any traffic is going to get intercepted by nginx
     - If I wanted to do more with this in the future (remote accessing), I'd want to set up an SSL certificate (Let's Encrypt) or route throug ha a secure local overlya network (Tailscale)
 
+## Desktop IP Address Reservation
+
+- One other thing to note: there's no guarantee that your desktop ip address will remain fixed in place unless you make a point of reserving a specific ip address via your router settings
+- Go into your router settings, identify your desktop, and ensure that its present ip is reserved just for it
+
 ## Disclaimer  
 
 > Neither the author nor the developers of the code in this repository **condone or encourage** downloading, sharing, seeding, or peering of **copyrighted material**.  
