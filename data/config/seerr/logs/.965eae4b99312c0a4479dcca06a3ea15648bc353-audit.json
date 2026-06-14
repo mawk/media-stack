@@ -6,14 +6,39 @@
     "auditLog": "/app/config/logs/.965eae4b99312c0a4479dcca06a3ea15648bc353-audit.json",
     "files": [
         {
-            "date": 1780369863803,
-            "name": "/app/config/logs/seerr-2026-06-02.log",
-            "hash": "276ba552dfbef12cb2ec6ff4d1adaea95950659a3f6cc39e1d6bd4e082f0f297"
+            "date": 1780876800034,
+            "name": "/app/config/logs/seerr-2026-06-08.log",
+            "hash": "e5ebcf994af4af52817c85fbe1d9b618a8fad2ce1c7c4cb7cd019825f8eb202f"
         },
         {
-            "date": 1780444800027,
-            "name": "/app/config/logs/seerr-2026-06-03.log",
-            "hash": "0942e893ea14ef0f0cc22c2cec108a746b8c512262504458bee1d19c825cc38e"
+            "date": 1780963200014,
+            "name": "/app/config/logs/seerr-2026-06-09.log",
+            "hash": "2e64a2317266c24d5c0f76f813c792484ac2222064cf487d20bde0bab8b91f99"
+        },
+        {
+            "date": 1781056963167,
+            "name": "/app/config/logs/seerr-2026-06-10.log",
+            "hash": "78b28e53b8663460ac8d9f929bbd18933b0743bfe56009e4fdac9981aac07f08"
+        },
+        {
+            "date": 1781136000032,
+            "name": "/app/config/logs/seerr-2026-06-11.log",
+            "hash": "88d4b8b28c7f53feed56ec9903fce6f4f6d0f9d64ea7b26f1a47f993927af563"
+        },
+        {
+            "date": 1781234837897,
+            "name": "/app/config/logs/seerr-2026-06-12.log",
+            "hash": "b35f5c365b1367e998bb83dddf54ae24e486dd1e170b867179ae717a15f5c738"
+        },
+        {
+            "date": 1781308800011,
+            "name": "/app/config/logs/seerr-2026-06-13.log",
+            "hash": "dc7a2278c4e1f17206488c88071c4c094279f7228162dae8e1a912a3456250c5"
+        },
+        {
+            "date": 1781476898417,
+            "name": "/app/config/logs/seerr-2026-06-14.log",
+            "hash": "abea9d3b8c89a082fca55294980ff7d6180481948a32befdff05e9c767e64524"
         }
     ],
     "hashType": "sha256"

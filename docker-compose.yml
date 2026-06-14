@@ -35,7 +35,7 @@ services:
       # prowlarr ports
       - 9696:9696
     volumes:
-      - gluetun-data:/gluetun
+      - ${DATA_DIR}/config/gluetun:/gluetun
     restart: "unless-stopped"
 
     # Healthcheck disabled via DISABLE_HEALTHCHECK=true env var
@@ -67,8 +67,8 @@ services:
       - TZ=UTC
       - WEBUI_PORT=5080
     volumes:
-      - qbittorrent-config:/config
-      - torrent-downloads:/downloads
+      - ${DATA_DIR}/config/qbittorrent:/config
+      - ${DATA_DIR}:/data
 
     restart: "unless-stopped"
 
@@ -86,8 +86,8 @@ services:
     ports:
       - 7878:7878
     volumes:
-      - radarr-config:/config
-      - torrent-downloads:/downloads
+      - ${DATA_DIR}/config/radarr:/config
+      - ${DATA_DIR}:/data
     restart: "unless-stopped"
 
   sonarr:
@@ -102,8 +102,8 @@ services:
       - PGID=1000
       - TZ=UTC
     volumes:
-      - sonarr-config:/config
-      - torrent-downloads:/downloads
+      - ${DATA_DIR}/config/sonarr:/config
+      - ${DATA_DIR}:/data
     ports:
       - 8989:8989
     restart: unless-stopped
@@ -124,7 +124,7 @@ services:
       - PGID=1000
       - TZ=UTC
     volumes:
-      - prowlarr-config:/config
+      - ${DATA_DIR}/config/prowlarr:/config
 
     restart: unless-stopped
 
@@ -140,7 +140,7 @@ services:
       - PORT=3000
       - PUBLIC_URL=https://localhost:3000 # Change this public URL if you are accessing recommendarr on a domain
     volumes:
-      - recommendarr-data:/app/server/data
+      - ${DATA_DIR}/config/recommendarr:/app/server/data
     ports:
       - 3000:3000
     restart: unless-stopped
@@ -174,8 +174,8 @@ services:
       - TZ=UTC
       #- JELLYFIN_PublishedServerUrl=
     volumes:
-      - jellyfin-config:/config
-      - torrent-downloads:/data
+      - ${DATA_DIR}/config/jellyfin:/config
+      - ${DATA_DIR}:/data
   # devices:
    #  - /dev/videoN:/dev/videoN # Mount GPU device 
     ports:
@@ -205,16 +205,6 @@ services:
     networks:
       - mynetwork  
 
-volumes:
-  gluetun-data:
-  torrent-downloads:
-  radarr-config:
-  sonarr-config:
-  prowlarr-config:
-  jellyfin-config:
-  qbittorrent-config:
-  seerr-config:
-  recommendarr-data:
 
 networks:
   mynetwork:

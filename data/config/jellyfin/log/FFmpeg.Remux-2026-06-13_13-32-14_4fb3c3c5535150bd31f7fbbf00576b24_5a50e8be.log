@@ -1,0 +1,1496 @@
+{"Protocol":0,"Id":"4fb3c3c5535150bd31f7fbbf00576b24","Path":"/data/media/movies/The Castle of Cagliostro (1979)/[izzybell] Lupin The Third - The Castle of Cagliostro (1979) V2 [1080p] [Multi-Audio] [BDRemux] [FLAC] {Tags-L2;V15;C1;A=ja,en;F=en;S=ja,en;}.mkv","EncoderPath":null,"EncoderProtocol":null,"Type":0,"Container":"mkv","Size":22319588664,"Name":"[izzybell] Lupin The Third - The Castle of Cagliostro (1979) V2 [1080p] [Multi-Audio] [BDRemux] [FLAC] {Tags-L2;V15;C1;A=ja,en;F=en;S=ja,en;}","IsRemote":false,"ETag":"ce07a66eb8f2071a5fd7857a87535ddb","RunTimeTicks":59730950000,"ReadAtNativeFramerate":false,"IgnoreDts":false,"IgnoreIndex":false,"GenPtsInput":false,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"UseMostCompatibleTranscodingProfile":false,"RequiresOpening":false,"OpenToken":null,"RequiresClosing":false,"LiveStreamId":null,"BufferMs":null,"RequiresLooping":false,"SupportsProbing":true,"VideoType":0,"IsoType":null,"Video3DFormat":null,"MediaStreams":[{"Codec":"h264","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":"bt709","ColorTransfer":"bt709","ColorPrimaries":"bt709","DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":null,"Hdr10PlusPresentFlag":null,"VideoRange":1,"VideoRangeType":1,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":null,"LocalizedForced":null,"LocalizedExternal":null,"LocalizedHearingImpaired":null,"DisplayTitle":"1080p H264 SDR","NalLengthSize":"4","IsInterlaced":false,"IsAVC":true,"ChannelLayout":null,"BitRate":29893498,"BitDepth":8,"RefFrames":1,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":1080,"Width":1920,"AverageFrameRate":23.976025,"RealFrameRate":23.976025,"ReferenceFrameRate":23.976025,"Profile":"High","Type":1,"AspectRatio":"16:9","Index":0,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":"yuv420p","Level":41,"IsAnamorphic":false},{"Codec":"flac","CodecTag":null,"Language":"zxx","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[Crash] 1993 1.0 SFX Only","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"[Crash] 1993 1.0 SFX Only - FLAC - Mono","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"mono","BitRate":292199,"BitDepth":16,"RefFrames":null,"PacketLength":null,"Channels":1,"SampleRate":44100,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":1,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"flac","CodecTag":null,"Language":"zxx","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[Crash] 1993 1.0 Isolated Music","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"[Crash] 1993 1.0 Isolated Music - FLAC - Mono","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"mono","BitRate":282322,"BitDepth":16,"RefFrames":null,"PacketLength":null,"Channels":1,"SampleRate":44100,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":2,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"flac","CodecTag":null,"Language":"zxx","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[Crash] 1997 1.0 Music \u0026 Effects","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"[Crash] 1997 1.0 Music \u0026 Effects - FLAC - Mono","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"mono","BitRate":323040,"BitDepth":16,"RefFrames":null,"PacketLength":null,"Channels":1,"SampleRate":44100,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":3,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"flac","CodecTag":null,"Language":"jpn","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[aiming4theaces] 1979 1.0 Japanese [1995 JP LD]","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"[aiming4theaces] 1979 1.0 Japanese [1995 JP LD] - FLAC - Mono - Default","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"mono","BitRate":318730,"BitDepth":16,"RefFrames":null,"PacketLength":null,"Channels":1,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":4,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"flac","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[RetroCCN/Krycek702/izzybell] 1991 2.0 Streamline Dub [1992 US VHS]","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"[RetroCCN/Krycek702/izzybell] 1991 2.0 Streamline Dub [1992 US VHS] - English - FLAC - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":662595,"BitDepth":16,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":5,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"flac","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"1991 1.0 Streamline Dub [2012 UKBD]","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"1991 1.0 Streamline Dub [2012 UKBD] - English - FLAC - Mono","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"mono","BitRate":732134,"BitDepth":24,"RefFrames":null,"PacketLength":null,"Channels":1,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":6,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"flac","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2000 2.0 Manga-Animaze Dub","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2000 2.0 Manga-Animaze Dub - English - FLAC - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":642044,"BitDepth":16,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":7,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"flac","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2021 2.0 Manga-Animaze Dub [\u0022Family Friendly\u0022 Edit]","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2021 2.0 Manga-Animaze Dub [\u0022Family Friendly\u0022 Edit] - English - FLAC - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":1396099,"BitDepth":24,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":8,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"flac","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2025 5.1 Discotek Dub","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2025 5.1 Discotek Dub - English - FLAC","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"5.1","BitRate":2733980,"BitDepth":24,"RefFrames":null,"PacketLength":null,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":9,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"flac","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2025 2.0 Discotek Dub","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2025 2.0 Discotek Dub - English - FLAC - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":1129860,"BitDepth":24,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":10,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ac3","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2021 1.0 Reed Nelson Commentary","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":null,"LocalizedDefault":"Default","LocalizedForced":null,"LocalizedExternal":"External","LocalizedHearingImpaired":null,"DisplayTitle":"2021 1.0 Reed Nelson Commentary - English - Dolby Digital - Stereo","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":"stereo","BitRate":320000,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":2,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":null,"Width":null,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":0,"AspectRatio":null,"Index":11,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ass","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[hydes / izzybell / ZeBenko / kneelack] Signs \u0026 Songs","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"[hydes / izzybell / ZeBenko / kneelack] Signs \u0026 Songs - English - ASS","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":12,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ass","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[hydes / izzybell / ZeBenko / kneelack] Stylized Subtitles","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"[hydes / izzybell / ZeBenko / kneelack] Stylized Subtitles - English - Default - ASS","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":13,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"Basic Subtitles","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"Basic Subtitles - English - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":14,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"PGSSUB","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"1980 Theatrical Subtitles","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"1980 Theatrical Subtitles - English - PGSSUB","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":1080,"Width":1920,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":15,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"subrip","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[kneelack] 2006 Manga Entertainment Subtitles","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"[kneelack] 2006 Manga Entertainment Subtitles - English - SUBRIP","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":16,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"PGSSUB","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2012 Studio Canal Subtitles","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"2012 Studio Canal Subtitles - English - PGSSUB","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":1080,"Width":1920,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":17,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"PGSSUB","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"2014 Ghibli Subtitles","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"2014 Ghibli Subtitles - English - PGSSUB","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":1080,"Width":1920,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":18,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":false,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ass","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[Crash / kneelack] Streamline Dubtitles","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"[Crash / kneelack] Streamline Dubtitles - English - ASS","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":19,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ass","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[Crash / kneelack] Manga Dubtitles","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"[Crash / kneelack] Manga Dubtitles - English - ASS","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":20,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ass","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[Crash / kneelack] Manga Dubtitles [\u0022Family Friendly\u0022 Edit]","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"[Crash / kneelack] Manga Dubtitles [\u0022Family Friendly\u0022 Edit] - English - ASS","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":21,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ass","CodecTag":null,"Language":"eng","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[ZeBenko / izzybell] Discotek Dubtitles","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"[ZeBenko / izzybell] Discotek Dubtitles - English - ASS","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":22,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null},{"Codec":"ass","CodecTag":null,"Language":"jpn","ColorRange":null,"ColorSpace":null,"ColorTransfer":null,"ColorPrimaries":null,"DvVersionMajor":null,"DvVersionMinor":null,"DvProfile":null,"DvLevel":null,"RpuPresentFlag":null,"ElPresentFlag":null,"BlPresentFlag":null,"DvBlSignalCompatibilityId":null,"Rotation":null,"Comment":null,"TimeBase":"1/1000","CodecTimeBase":null,"Title":"[Crash] Japanese SDH","Hdr10PlusPresentFlag":null,"VideoRange":0,"VideoRangeType":0,"VideoDoViTitle":null,"AudioSpatialFormat":0,"LocalizedUndefined":"Undefined","LocalizedDefault":"Default","LocalizedForced":"Forced","LocalizedExternal":"External","LocalizedHearingImpaired":"Hearing Impaired","DisplayTitle":"[Crash] Japanese SDH - Hearing Impaired - ASS","NalLengthSize":null,"IsInterlaced":false,"IsAVC":false,"ChannelLayout":null,"BitRate":null,"BitDepth":null,"RefFrames":null,"PacketLength":null,"Channels":null,"SampleRate":null,"IsDefault":false,"IsForced":false,"IsHearingImpaired":true,"Height":0,"Width":0,"AverageFrameRate":null,"RealFrameRate":null,"ReferenceFrameRate":null,"Profile":null,"Type":2,"AspectRatio":null,"Index":23,"Score":null,"IsExternal":false,"DeliveryMethod":null,"DeliveryUrl":null,"IsExternalUrl":null,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Path":null,"PixelFormat":null,"Level":0,"IsAnamorphic":null}],"MediaAttachments":[{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":24,"FileName":"Informal 011 Black BT.ttf","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":25,"FileName":"A-OTF-MidashiMinPr5-AnoHana.ttf","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"otf","CodecTag":"[0][0][0][0]","Comment":null,"Index":26,"FileName":"FAXFONTTONE.OTF","MimeType":"application/vnd.ms-opentype","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":27,"FileName":"123MARKER.TTF","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":28,"FileName":"aurella.script.ttf","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"otf","CodecTag":"[0][0][0][0]","Comment":null,"Index":29,"FileName":"BeelzebrushBlackBB.otf","MimeType":"application/vnd.ms-opentype","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":30,"FileName":"CP.ttf","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":31,"FileName":"GosmickSans.ttf","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":32,"FileName":"JANGLYWALK.TTF","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"otf","CodecTag":"[0][0][0][0]","Comment":null,"Index":33,"FileName":"CenturyStd-Bold.otf","MimeType":"application/vnd.ms-opentype","DeliveryUrl":null},{"Codec":"otf","CodecTag":"[0][0][0][0]","Comment":null,"Index":34,"FileName":"nominee-heavy-extended.otf","MimeType":"application/vnd.ms-opentype","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":35,"FileName":"arialbd.ttf","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":36,"FileName":"calibrib.ttf","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":37,"FileName":"BIZ-UDGOTHICR-5A445.TTC","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":38,"FileName":"Cabin-SemiBold.ttf","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":39,"FileName":"Cabin-SemiBoldItalic.ttf","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":40,"FileName":"Edmund-Free.ttf","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":41,"FileName":"quando.regular.ttf","MimeType":"application/x-truetype-font","DeliveryUrl":null},{"Codec":"ttf","CodecTag":"[0][0][0][0]","Comment":null,"Index":42,"FileName":"Vakansy.otf","MimeType":"application/x-truetype-font","DeliveryUrl":null}],"Formats":[],"Bitrate":38726501,"FallbackMaxStreamingBitrate":null,"Timestamp":null,"RequiredHttpHeaders":{},"TranscodingUrl":null,"TranscodingSubProtocol":0,"TranscodingContainer":null,"AnalyzeDurationMs":null,"DefaultAudioStreamIndex":null,"DefaultSubtitleStreamIndex":null,"HasSegments":false}
+
+/usr/lib/jellyfin-ffmpeg/ffmpeg -analyzeduration 200M -probesize 1G -fflags +genpts  -i file:"/data/media/movies/The Castle of Cagliostro (1979)/[izzybell] Lupin The Third - The Castle of Cagliostro (1979) V2 [1080p] [Multi-Audio] [BDRemux] [FLAC] {Tags-L2;V15;C1;A=ja,en;F=en;S=ja,en;}.mkv" -map_metadata -1 -map_chapters -1 -threads 0 -map 0:0 -map 0:4 -map -0:s -codec:v:0 copy -bsf:v h264_mp4toannexb -start_at_zero -codec:a:0 copy -copyts -avoid_negative_ts disabled -max_muxing_queue_size 2048 -f hls -max_delay 5000000 -hls_time 6 -hls_segment_type fmp4 -hls_fmp4_init_filename "9bfb1db23e84b0388a21990de505877c-1.mp4" -start_number 0 -hls_segment_filename "/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c%d.mp4" -hls_playlist_type vod -hls_list_size 0 -hls_segment_options movflags=+frag_discont -y "/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c.m3u8"
+
+
+ffmpeg version 7.1.3-Jellyfin Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.3.0-6ubuntu2~24.04.1)
+  configuration: --prefix=/usr/lib/jellyfin-ffmpeg --target-os=linux --extra-version=Jellyfin --disable-doc --disable-ffplay --disable-static --disable-libxcb --disable-sdl2 --disable-xlib --enable-lto=auto --enable-gpl --enable-version3 --enable-shared --enable-gmp --enable-gnutls --enable-chromaprint --enable-opencl --enable-libdrm --enable-libxml2 --enable-libass --enable-libfreetype --enable-libfribidi --enable-libfontconfig --enable-libharfbuzz --enable-libbluray --enable-libmp3lame --enable-libopus --enable-libtheora --enable-libvorbis --enable-libopenmpt --enable-libdav1d --enable-libsvtav1 --enable-libwebp --enable-libvpx --enable-libx264 --enable-libx265 --enable-libzvbi --enable-libzimg --enable-libfdk-aac --arch=amd64 --enable-libshaderc --enable-libplacebo --enable-vulkan --enable-vaapi --enable-amf --enable-libvpl --enable-ffnvcodec --enable-cuda --enable-cuda-llvm --enable-cuvid --enable-nvdec --enable-nvenc
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.101 / 61. 19.101
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, matroska,webm, from 'file:/data/media/movies/The Castle of Cagliostro (1979)/[izzybell] Lupin The Third - The Castle of Cagliostro (1979) V2 [1080p] [Multi-Audio] [BDRemux] [FLAC] {Tags-L2;V15;C1;A=ja,en;F=en;S=ja,en;}.mkv':
+  Metadata:
+    encoder         : libebml v1.4.5 + libmatroska v1.7.1
+    creation_time   : 2026-01-06T22:23:38.000000Z
+  Duration: 01:39:33.10, start: 0.000000, bitrate: 29893 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 128.586792
+      Metadata:
+        title           : The Big Heist
+    Chapter #0:1: start 128.586792, end 243.868625
+      Metadata:
+        title           : Treasure of the Flame
+    Chapter #0:2: start 243.868625, end 310.184875
+      Metadata:
+        title           : Welcome to Cagliostro
+    Chapter #0:3: start 310.184875, end 610.401458
+      Metadata:
+        title           : Cliffside Chase
+    Chapter #0:4: start 610.401458, end 1005.379375
+      Metadata:
+        title           : Investigating the Ring
+    Chapter #0:5: start 1005.379375, end 1172.713208
+      Metadata:
+        title           : The Count's Arrival
+    Chapter #0:6: start 1172.713208, end 1400.148750
+      Metadata:
+        title           : Unwelcome Guests
+    Chapter #0:7: start 1400.148750, end 1556.221333
+      Metadata:
+        title           : Advance Notice
+    Chapter #0:8: start 1556.221333, end 1753.460042
+      Metadata:
+        title           : The Players Are All In Place
+    Chapter #0:9: start 1753.460042, end 2256.879625
+      Metadata:
+        title           : Breaking and Entering
+    Chapter #0:10: start 2256.879625, end 2431.554125
+      Metadata:
+        title           : To the North Tower
+    Chapter #0:11: start 2431.554125, end 2943.065125
+      Metadata:
+        title           : The Thief and the Princess
+    Chapter #0:12: start 2943.065125, end 3236.608375
+      Metadata:
+        title           : Dungeons of Death
+    Chapter #0:13: start 3236.608375, end 3349.888208
+      Metadata:
+        title           : Count Cagliostro's Secret
+    Chapter #0:14: start 3349.888208, end 3512.509000
+      Metadata:
+        title           : Flying Through the Air
+    Chapter #0:15: start 3512.509000, end 3878.332792
+      Metadata:
+        title           : An Unexpected Delay
+    Chapter #0:16: start 3878.332792, end 4000.204542
+      Metadata:
+        title           : A Matter of Politics
+    Chapter #0:17: start 4000.204542, end 4271.141875
+      Metadata:
+        title           : Recovery and Recollection
+    Chapter #0:18: start 4271.141875, end 4424.628542
+      Metadata:
+        title           : Making Wedding Plans
+    Chapter #0:19: start 4424.628542, end 4531.860667
+      Metadata:
+        title           : The Main Event
+    Chapter #0:20: start 4531.860667, end 4985.689042
+      Metadata:
+        title           : Wedding Crashers
+    Chapter #0:21: start 4985.689042, end 5176.921750
+      Metadata:
+        title           : Solving the Riddle
+    Chapter #0:22: start 5176.921750, end 5604.056792
+      Metadata:
+        title           : The Clock Tower Face-Off
+    Chapter #0:23: start 5604.056792, end 5973.092125
+      Metadata:
+        title           : The Cagliostro Treasure
+  Stream #0:0(eng): Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 23.98 fps, 23.98 tbr, 1k tbn
+      Metadata:
+        BPS             : 20999126
+        DURATION        : 01:39:33.092000000
+        NUMBER_OF_FRAMES: 143211
+        NUMBER_OF_BYTES : 15678714346
+        SOURCE_ID       : 001011
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES SOURCE_ID
+  Stream #0:1(zxx): Audio: flac, 44100 Hz, mono, s16
+      Metadata:
+        title           : [Crash] 1993 1.0 SFX Only
+        BPS             : 292199
+        DURATION        : 01:39:29.090000000
+        NUMBER_OF_FRAMES: 64267
+        NUMBER_OF_BYTES : 218020848
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:2(zxx): Audio: flac, 44100 Hz, mono, s16
+      Metadata:
+        title           : [Crash] 1993 1.0 Isolated Music
+        BPS             : 282322
+        DURATION        : 01:39:29.094000000
+        NUMBER_OF_FRAMES: 64267
+        NUMBER_OF_BYTES : 210651114
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:3(zxx): Audio: flac, 44100 Hz, mono, s16
+      Metadata:
+        title           : [Crash] 1997 1.0 Music & Effects
+        BPS             : 323040
+        DURATION        : 01:39:29.094000000
+        NUMBER_OF_FRAMES: 64267
+        NUMBER_OF_BYTES : 241032538
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:4(jpn): Audio: flac, 48000 Hz, mono, s16 (default)
+      Metadata:
+        title           : [aiming4theaces] 1979 1.0 Japanese [1995 JP LD]
+        BPS             : 318730
+        DURATION        : 01:39:29.095000000
+        NUMBER_OF_FRAMES: 69951
+        NUMBER_OF_BYTES : 237816262
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:5(eng): Audio: flac, 48000 Hz, stereo, s16
+      Metadata:
+        title           : [RetroCCN/Krycek702/izzybell] 1991 2.0 Streamline Dub [1992 US VHS]
+        BPS             : 662595
+        DURATION        : 01:39:28.329000000
+        NUMBER_OF_FRAMES: 69942
+        NUMBER_OF_BYTES : 494323584
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:6(eng): Audio: flac, 48000 Hz, mono, s32 (24 bit)
+      Metadata:
+        title           : 1991 1.0 Streamline Dub [2012 UKBD]
+        BPS             : 732134
+        DURATION        : 01:39:28.329000000
+        NUMBER_OF_FRAMES: 69942
+        NUMBER_OF_BYTES : 546202120
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:7(eng): Audio: flac, 48000 Hz, stereo, s16
+      Metadata:
+        title           : 2000 2.0 Manga-Animaze Dub
+        BPS             : 642044
+        DURATION        : 01:39:26.880000000
+        NUMBER_OF_FRAMES: 69925
+        NUMBER_OF_BYTES : 478875484
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:8(eng): Audio: flac, 48000 Hz, stereo, s32 (24 bit)
+      Metadata:
+        title           : 2021 2.0 Manga-Animaze Dub ["Family Friendly" Edit]
+        BPS             : 1396099
+        DURATION        : 01:39:28.961000000
+        NUMBER_OF_FRAMES: 69949
+        NUMBER_OF_BYTES : 1041657601
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:9(eng): Audio: flac, 48000 Hz, 5.1(side), s32 (24 bit)
+      Metadata:
+        title           : 2025 5.1 Discotek Dub
+        BPS             : 2733980
+        DURATION        : 01:39:28.971000000
+        NUMBER_OF_FRAMES: 62177
+        NUMBER_OF_BYTES : 2039881637
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:10(eng): Audio: flac, 48000 Hz, stereo, s32 (24 bit)
+      Metadata:
+        title           : 2025 2.0 Discotek Dub
+        BPS             : 1129860
+        DURATION        : 01:39:28.971000000
+        NUMBER_OF_FRAMES: 62177
+        NUMBER_OF_BYTES : 843013249
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:11(eng): Audio: ac3, 48000 Hz, stereo, fltp, 320 kb/s (comment)
+      Metadata:
+        title           : 2021 1.0 Reed Nelson Commentary
+        BPS             : 320000
+        DURATION        : 01:39:27.968000000
+        NUMBER_OF_FRAMES: 186499
+        NUMBER_OF_BYTES : 238718720
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:12(eng): Subtitle: ass (ssa)
+      Metadata:
+        title           : [hydes / izzybell / ZeBenko / kneelack] Signs & Songs
+        BPS             : 995
+        DURATION        : 01:39:29.760000000
+        NUMBER_OF_FRAMES: 1783
+        NUMBER_OF_BYTES : 742641
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:13(eng): Subtitle: ass (ssa) (default)
+      Metadata:
+        title           : [hydes / izzybell / ZeBenko / kneelack] Stylized Subtitles
+        BPS             : 1085
+        DURATION        : 01:39:29.760000000
+        NUMBER_OF_FRAMES: 2837
+        NUMBER_OF_BYTES : 810073
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:14(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : Basic Subtitles
+        BPS             : 46
+        DURATION        : 01:38:56.100000000
+        NUMBER_OF_FRAMES: 1068
+        NUMBER_OF_BYTES : 34224
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:15(eng): Subtitle: hdmv_pgs_subtitle (pgssub), 1920x1080
+      Metadata:
+        title           : 1980 Theatrical Subtitles
+        BPS             : 33497
+        DURATION        : 01:39:22.415000000
+        NUMBER_OF_FRAMES: 1189
+        NUMBER_OF_BYTES : 24965441
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:16(eng): Subtitle: subrip (srt)
+      Metadata:
+        title           : [kneelack] 2006 Manga Entertainment Subtitles
+        BPS             : 43
+        DURATION        : 01:38:29.740000000
+        NUMBER_OF_FRAMES: 876
+        NUMBER_OF_BYTES : 31768
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:17(eng): Subtitle: hdmv_pgs_subtitle (pgssub), 1920x1080
+      Metadata:
+        title           : 2012 Studio Canal Subtitles
+        BPS             : 24003
+        DURATION        : 01:38:55.095000000
+        NUMBER_OF_FRAMES: 1620
+        NUMBER_OF_BYTES : 17807940
+        SOURCE_ID       : 001200
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES SOURCE_ID
+  Stream #0:18(eng): Subtitle: hdmv_pgs_subtitle (pgssub), 1920x1080
+      Metadata:
+        title           : 2014 Ghibli Subtitles
+        BPS             : 25503
+        DURATION        : 01:38:55.721000000
+        NUMBER_OF_FRAMES: 1840
+        NUMBER_OF_BYTES : 18922472
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:19(eng): Subtitle: ass (ssa)
+      Metadata:
+        title           : [Crash / kneelack] Streamline Dubtitles
+        BPS             : 1103
+        DURATION        : 01:39:29.760000000
+        NUMBER_OF_FRAMES: 2938
+        NUMBER_OF_BYTES : 823638
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:20(eng): Subtitle: ass (ssa)
+      Metadata:
+        title           : [Crash / kneelack] Manga Dubtitles
+        BPS             : 1086
+        DURATION        : 01:39:29.750000000
+        NUMBER_OF_FRAMES: 2795
+        NUMBER_OF_BYTES : 810892
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:21(eng): Subtitle: ass (ssa)
+      Metadata:
+        title           : [Crash / kneelack] Manga Dubtitles ["Family Friendly" Edit]
+        BPS             : 1086
+        DURATION        : 01:39:29.750000000
+        NUMBER_OF_FRAMES: 2788
+        NUMBER_OF_BYTES : 810810
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:22(eng): Subtitle: ass (ssa)
+      Metadata:
+        title           : [ZeBenko / izzybell] Discotek Dubtitles
+        BPS             : 1078
+        DURATION        : 01:39:29.760000000
+        NUMBER_OF_FRAMES: 2728
+        NUMBER_OF_BYTES : 804492
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:23(jpn): Subtitle: ass (ssa) (hearing impaired)
+      Metadata:
+        title           : [Crash] Japanese SDH
+        BPS             : 90
+        DURATION        : 01:39:00.300000000
+        NUMBER_OF_FRAMES: 1214
+        NUMBER_OF_BYTES : 67272
+        _STATISTICS_WRITING_APP: mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+        _STATISTICS_WRITING_DATE_UTC: 2026-01-06 22:23:38
+        _STATISTICS_TAGS: BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES
+  Stream #0:24: Attachment: ttf
+      Metadata:
+        filename        : Informal 011 Black BT.ttf
+        mimetype        : application/x-truetype-font
+  Stream #0:25: Attachment: ttf
+      Metadata:
+        filename        : A-OTF-MidashiMinPr5-AnoHana.ttf
+        mimetype        : application/x-truetype-font
+  Stream #0:26: Attachment: otf
+      Metadata:
+        filename        : FAXFONTTONE.OTF
+        mimetype        : application/vnd.ms-opentype
+  Stream #0:27: Attachment: ttf
+      Metadata:
+        filename        : 123MARKER.TTF
+        mimetype        : application/x-truetype-font
+  Stream #0:28: Attachment: ttf
+      Metadata:
+        filename        : aurella.script.ttf
+        mimetype        : application/x-truetype-font
+  Stream #0:29: Attachment: otf
+      Metadata:
+        filename        : BeelzebrushBlackBB.otf
+        mimetype        : application/vnd.ms-opentype
+  Stream #0:30: Attachment: ttf
+      Metadata:
+        filename        : CP.ttf
+        mimetype        : application/x-truetype-font
+  Stream #0:31: Attachment: ttf
+      Metadata:
+        filename        : GosmickSans.ttf
+        mimetype        : application/x-truetype-font
+  Stream #0:32: Attachment: ttf
+      Metadata:
+        filename        : JANGLYWALK.TTF
+        mimetype        : application/x-truetype-font
+  Stream #0:33: Attachment: otf
+      Metadata:
+        filename        : CenturyStd-Bold.otf
+        mimetype        : application/vnd.ms-opentype
+  Stream #0:34: Attachment: otf
+      Metadata:
+        filename        : nominee-heavy-extended.otf
+        mimetype        : application/vnd.ms-opentype
+  Stream #0:35: Attachment: ttf
+      Metadata:
+        filename        : arialbd.ttf
+        mimetype        : application/x-truetype-font
+  Stream #0:36: Attachment: ttf
+      Metadata:
+        filename        : calibrib.ttf
+        mimetype        : application/x-truetype-font
+  Stream #0:37: Attachment: ttf
+      Metadata:
+        filename        : BIZ-UDGOTHICR-5A445.TTC
+        mimetype        : application/x-truetype-font
+  Stream #0:38: Attachment: ttf
+      Metadata:
+        filename        : Cabin-SemiBold.ttf
+        mimetype        : application/x-truetype-font
+  Stream #0:39: Attachment: ttf
+      Metadata:
+        filename        : Cabin-SemiBoldItalic.ttf
+        mimetype        : application/x-truetype-font
+  Stream #0:40: Attachment: ttf
+      Metadata:
+        filename        : Edmund-Free.ttf
+        mimetype        : application/x-truetype-font
+  Stream #0:41: Attachment: ttf
+      Metadata:
+        filename        : quando.regular.ttf
+        mimetype        : application/x-truetype-font
+  Stream #0:42: Attachment: ttf
+      Metadata:
+        filename        : Vakansy.otf
+        mimetype        : application/x-truetype-font
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:4 -> #0:1 (copy)
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c-1.mp4' for writing
+[mp4 @ 0x556ce79d2680] track 1: codec frame size is not set
+Output #0, hls, to '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c.m3u8':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 23.98 fps, 23.98 tbr, 16k tbn
+  Stream #0:1: Audio: flac, 48000 Hz, mono, s16 (default)
+Press [q] to stop, [?] for help
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c0.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c1.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c2.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c3.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c4.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c5.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c6.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c7.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c8.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c9.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c10.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c11.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c12.mp4' for writing
+frame= 1882 fps=0.0 q=-1.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c13.mp4' for writing
+[mp4 @ 0x556ce79d2680] Packet duration: -48 / dts: 4034016 is out of range
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c14.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c15.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c16.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c17.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c18.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c19.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c20.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c21.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c22.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c23.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c24.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c25.mp4' for writing
+frame= 3761 fps=3754 q=-1.0 size=N/A time=00:01:18.28 bitrate=N/A speed=78.1x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c26.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c27.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c28.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c29.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c30.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c31.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c32.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c33.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c34.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c35.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c36.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c37.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c38.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c39.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c40.mp4' for writing
+frame= 5989 fps=3985 q=-1.0 size=N/A time=00:02:51.21 bitrate=N/A speed= 114x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c41.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c42.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c43.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c44.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c45.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c46.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c47.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c48.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c49.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c50.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c51.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c52.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c53.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c54.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c55.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c56.mp4' for writing
+frame= 8346 fps=4165 q=-1.0 size=N/A time=00:04:29.43 bitrate=N/A speed= 134x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c57.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c58.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c59.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c60.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c61.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c62.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c63.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c64.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c65.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c66.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c67.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c68.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c69.mp4' for writing
+frame=10089 fps=4028 q=-1.0 size=N/A time=00:05:42.30 bitrate=N/A speed= 137x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c70.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c71.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c72.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c73.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c74.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c75.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c76.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c77.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c78.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c79.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c80.mp4' for writing
+frame=11671 fps=3883 q=-1.0 size=N/A time=00:06:48.28 bitrate=N/A speed= 136x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c81.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c82.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c83.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c84.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c85.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c86.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c87.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c88.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c89.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c90.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c91.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c92.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c93.mp4' for writing
+frame=13538 fps=3861 q=-1.0 size=N/A time=00:08:06.15 bitrate=N/A speed= 139x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c94.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c95.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c96.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c97.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c98.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c99.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c100.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c101.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c102.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c103.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c104.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c105.mp4' for writing
+frame=15365 fps=3834 q=-1.0 size=N/A time=00:09:22.18 bitrate=N/A speed= 140x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c106.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c107.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c108.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c109.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c110.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c111.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c112.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c113.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c114.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c115.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c116.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c117.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c118.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c119.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c120.mp4' for writing
+frame=17446 fps=3869 q=-1.0 size=N/A time=00:10:49.06 bitrate=N/A speed= 144x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c121.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c122.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c123.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c124.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c125.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c126.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c127.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c128.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c129.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c130.mp4' for writing
+frame=19007 fps=3794 q=-1.0 size=N/A time=00:11:54.21 bitrate=N/A speed= 143x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c131.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c132.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c133.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c134.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c135.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c136.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c137.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c138.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c139.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c140.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c141.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c142.mp4' for writing
+frame=20733 fps=3762 q=-1.0 size=N/A time=00:13:06.20 bitrate=N/A speed= 143x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c143.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c144.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c145.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c146.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c147.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c148.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c149.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c150.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c151.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c152.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c153.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c154.mp4' for writing
+frame=22351 fps=3718 q=-1.0 size=N/A time=00:14:13.51 bitrate=N/A speed= 142x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c155.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c156.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c157.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c158.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c159.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c160.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c161.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c162.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c163.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c164.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c165.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c166.mp4' for writing
+frame=24037 fps=3691 q=-1.0 size=N/A time=00:15:24.00 bitrate=N/A speed= 142x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c167.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c168.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c169.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c170.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c171.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c172.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c173.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c174.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c175.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c176.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c177.mp4' for writing
+frame=25701 fps=3664 q=-1.0 size=N/A time=00:16:33.32 bitrate=N/A speed= 142x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c178.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c179.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c180.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c181.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c182.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c183.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c184.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c185.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c186.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c187.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c188.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c189.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c190.mp4' for writing
+frame=27506 fps=3660 q=-1.0 size=N/A time=00:17:48.65 bitrate=N/A speed= 142x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c191.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c192.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c193.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c194.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c195.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c196.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c197.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c198.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c199.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c200.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c201.mp4' for writing
+frame=29124 fps=3633 q=-1.0 size=N/A time=00:18:56.00 bitrate=N/A speed= 142x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c202.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c203.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c204.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c205.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c206.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c207.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c208.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c209.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c210.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c211.mp4' for writing
+frame=30508 fps=3582 q=-1.0 size=N/A time=00:19:53.85 bitrate=N/A speed= 140x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c212.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c213.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c214.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c215.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c216.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c217.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c218.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c219.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c220.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c221.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c222.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c223.mp4' for writing
+frame=32246 fps=3576 q=-1.0 size=N/A time=00:21:06.22 bitrate=N/A speed= 140x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c224.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c225.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c226.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c227.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c228.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c229.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c230.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c231.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c232.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c233.mp4' for writing
+frame=33673 fps=3538 q=-1.0 size=N/A time=00:22:05.86 bitrate=N/A speed= 139x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c234.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c235.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c236.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c237.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c238.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c239.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c240.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c241.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c242.mp4' for writing
+frame=34965 fps=3490 q=-1.0 size=N/A time=00:22:59.71 bitrate=N/A speed= 138x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c243.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c244.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c245.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c246.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c247.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c248.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c249.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c250.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c251.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c252.mp4' for writing
+frame=36514 fps=3471 q=-1.0 size=N/A time=00:24:04.23 bitrate=N/A speed= 137x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c253.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c254.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c255.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c256.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c257.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c258.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c259.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c260.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c261.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c262.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c263.mp4' for writing
+frame=37983 fps=3446 q=-1.0 size=N/A time=00:25:05.71 bitrate=N/A speed= 137x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c264.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c265.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c266.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c267.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c268.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c269.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c270.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c271.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c272.mp4' for writing
+frame=39416 fps=3421 q=-1.0 size=N/A time=00:26:05.35 bitrate=N/A speed= 136x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c273.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c274.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c275.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c276.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c277.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c278.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c279.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c280.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c281.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c282.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c283.mp4' for writing
+frame=40862 fps=3398 q=-1.0 size=N/A time=00:27:05.74 bitrate=N/A speed= 135x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c284.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c285.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c286.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c287.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c288.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c289.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c290.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c291.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c292.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c293.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c294.mp4' for writing
+frame=42539 fps=3396 q=-1.0 size=N/A time=00:28:15.52 bitrate=N/A speed= 135x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c295.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c296.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c297.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c298.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c299.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c300.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c301.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c302.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c303.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c304.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c305.mp4' for writing
+frame=44175 fps=3391 q=-1.0 size=N/A time=00:29:23.97 bitrate=N/A speed= 135x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c306.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c307.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c308.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c309.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c310.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c311.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c312.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c313.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c314.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c315.mp4' for writing
+frame=45600 fps=3371 q=-1.0 size=N/A time=00:30:23.19 bitrate=N/A speed= 135x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c316.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c317.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c318.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c319.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c320.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c321.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c322.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c323.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c324.mp4' for writing
+frame=46860 fps=3341 q=-1.0 size=N/A time=00:31:15.74 bitrate=N/A speed= 134x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c325.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c326.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c327.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c328.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c329.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c330.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c331.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c332.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c333.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c334.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c335.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c336.mp4' for writing
+frame=48579 fps=3344 q=-1.0 size=N/A time=00:32:27.65 bitrate=N/A speed= 134x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c337.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c338.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c339.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c340.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c341.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c342.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c343.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c344.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c345.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c346.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c347.mp4' for writing
+frame=50091 fps=3333 q=-1.0 size=N/A time=00:33:30.50 bitrate=N/A speed= 134x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c348.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c349.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c350.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c351.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c352.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c353.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c354.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c355.mp4' for writing
+frame=51221 fps=3298 q=-1.0 size=N/A time=00:34:17.76 bitrate=N/A speed= 132x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c356.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c357.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c358.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c359.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c360.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c361.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c362.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c363.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c364.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c365.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c366.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c367.mp4' for writing
+frame=52950 fps=3303 q=-1.0 size=N/A time=00:35:29.83 bitrate=N/A speed= 133x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c368.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c369.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c370.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c371.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c372.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c373.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c374.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c375.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c376.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c377.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c378.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c379.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c380.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c381.mp4' for writing
+frame=54966 fps=3325 q=-1.0 size=N/A time=00:36:53.92 bitrate=N/A speed= 134x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c382.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c383.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c384.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c385.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c386.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c387.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c388.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c389.mp4' for writing
+[mp4 @ 0x556ce79d2680] Packet duration: -48 / dts: 112348608 is out of range
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c390.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c391.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c392.mp4' for writing
+frame=56657 fps=3326 q=-1.0 size=N/A time=00:38:04.36 bitrate=N/A speed= 134x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c393.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c394.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c395.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c396.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c397.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c398.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c399.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c400.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c401.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c402.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c403.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c404.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c405.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c406.mp4' for writing
+frame=58634 fps=3344 q=-1.0 size=N/A time=00:39:26.90 bitrate=N/A speed= 135x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c407.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c408.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c409.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c410.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c411.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c412.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c413.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c414.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c415.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c416.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c417.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c418.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c419.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c420.mp4' for writing
+frame=60716 fps=3366 q=-1.0 size=N/A time=00:40:53.78 bitrate=N/A speed= 136x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c421.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c422.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c423.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c424.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c425.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c426.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c427.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c428.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c429.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c430.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c431.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c432.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c433.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c434.mp4' for writing
+frame=62683 fps=3382 q=-1.0 size=N/A time=00:42:15.74 bitrate=N/A speed= 137x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c435.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c436.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c437.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c438.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c439.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c440.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c441.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c442.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c443.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c444.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c445.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c446.mp4' for writing
+frame=64340 fps=3380 q=-1.0 size=N/A time=00:43:24.85 bitrate=N/A speed= 137x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c447.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c448.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c449.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c450.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c451.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c452.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c453.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c454.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c455.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c456.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c457.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c458.mp4' for writing
+frame=66045 fps=3380 q=-1.0 size=N/A time=00:44:36.09 bitrate=N/A speed= 137x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c459.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c460.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c461.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c462.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c463.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c464.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c465.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c466.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c467.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c468.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c469.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c470.mp4' for writing
+frame=67895 fps=3388 q=-1.0 size=N/A time=00:45:53.12 bitrate=N/A speed= 137x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c471.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c472.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c473.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c474.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c475.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c476.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c477.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c478.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c479.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c480.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c481.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c482.mp4' for writing
+frame=69514 fps=3384 q=-1.0 size=N/A time=00:47:00.60 bitrate=N/A speed= 137x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c483.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c484.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c485.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c486.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c487.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c488.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c489.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c490.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c491.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c492.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c493.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c494.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c495.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c496.mp4' for writing
+frame=71550 fps=3400 q=-1.0 size=N/A time=00:48:25.77 bitrate=N/A speed= 138x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c497.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c498.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c499.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c500.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c501.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c502.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c503.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c504.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c505.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c506.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c507.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c508.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c509.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c510.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c511.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c512.mp4' for writing
+frame=73806 fps=3426 q=-1.0 size=N/A time=00:49:59.78 bitrate=N/A speed= 139x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c513.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c514.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c515.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c516.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c517.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c518.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c519.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c520.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c521.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c522.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c523.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c524.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c525.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c526.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c527.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c528.mp4' for writing
+frame=76113 fps=3453 q=-1.0 size=N/A time=00:51:36.00 bitrate=N/A speed= 140x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c529.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c530.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c531.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c532.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c533.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c534.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c535.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c536.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c537.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c538.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c539.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c540.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c541.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c542.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c543.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c544.mp4' for writing
+frame=78555 fps=3484 q=-1.0 size=N/A time=00:53:17.81 bitrate=N/A speed= 142x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c545.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c546.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c547.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c548.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c549.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c550.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c551.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c552.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c553.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c554.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c555.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c556.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c557.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c558.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c559.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c560.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c561.mp4' for writing
+frame=80866 fps=3509 q=-1.0 size=N/A time=00:54:54.20 bitrate=N/A speed= 143x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c562.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c563.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c564.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c565.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c566.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c567.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c568.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c569.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c570.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c571.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c572.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c573.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c574.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c575.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c576.mp4' for writing
+frame=83141 fps=3531 q=-1.0 size=N/A time=00:56:28.96 bitrate=N/A speed= 144x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c577.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c578.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c579.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c580.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c581.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c582.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c583.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c584.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c585.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c586.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c587.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c588.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c589.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c590.mp4' for writing
+frame=85181 fps=3542 q=-1.0 size=N/A time=00:57:54.05 bitrate=N/A speed= 144x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c591.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c592.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c593.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c594.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c595.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c596.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c597.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c598.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c599.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c600.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c601.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c602.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c603.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c604.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c605.mp4' for writing
+frame=87323 fps=3557 q=-1.0 size=N/A time=00:59:23.39 bitrate=N/A speed= 145x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c606.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c607.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c608.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c609.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c610.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c611.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c612.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c613.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c614.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c615.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c616.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c617.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c618.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c619.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c620.mp4' for writing
+frame=89432 fps=3570 q=-1.0 size=N/A time=01:00:51.35 bitrate=N/A speed= 146x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c621.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c622.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c623.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c624.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c625.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c626.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c627.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c628.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c629.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c630.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c631.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c632.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c633.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c634.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c635.mp4' for writing
+frame=91607 fps=3585 q=-1.0 size=N/A time=01:02:22.07 bitrate=N/A speed= 146x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c636.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c637.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c638.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c639.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c640.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c641.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c642.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c643.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c644.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c645.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c646.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c647.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c648.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c649.mp4' for writing
+frame=93660 fps=3595 q=-1.0 size=N/A time=01:03:47.78 bitrate=N/A speed= 147x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c650.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c651.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c652.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c653.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c654.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c655.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c656.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c657.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c658.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c659.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c660.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c661.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c662.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c663.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c664.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c665.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c666.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c667.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c668.mp4' for writing
+frame=96280 fps=3626 q=-1.0 size=N/A time=01:05:36.97 bitrate=N/A speed= 148x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c669.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c670.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c671.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c672.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c673.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c674.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c675.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c676.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c677.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c678.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c679.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c680.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c681.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c682.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c683.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c684.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c685.mp4' for writing
+frame=98699 fps=3648 q=-1.0 size=N/A time=01:07:18.03 bitrate=N/A speed= 149x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c686.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c687.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c688.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c689.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c690.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c691.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c692.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c693.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c694.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c695.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c696.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c697.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c698.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c699.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c700.mp4' for writing
+frame=101002 fps=3665 q=-1.0 size=N/A time=01:08:54.08 bitrate=N/A speed= 150x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c701.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c702.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c703.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c704.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c705.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c706.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c707.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c708.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c709.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c710.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c711.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c712.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c713.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c714.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c715.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c716.mp4' for writing
+frame=103216 fps=3679 q=-1.0 size=N/A time=01:10:26.30 bitrate=N/A speed= 151x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c717.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c718.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c719.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c720.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c721.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c722.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c723.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c724.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c725.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c726.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c727.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c728.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c729.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c730.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c731.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c732.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c733.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c734.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c735.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c736.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c737.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c738.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c739.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c740.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c741.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c742.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c743.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c744.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c745.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c746.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c747.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c748.mp4' for writing
+frame=107896 fps=3713 q=-1.0 size=N/A time=01:13:41.58 bitrate=N/A speed= 152x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c749.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c750.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c751.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c752.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c753.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c754.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c755.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c756.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c757.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c758.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c759.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c760.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c761.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c762.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c763.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c764.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c765.mp4' for writing
+frame=110206 fps=3728 q=-1.0 size=N/A time=01:15:17.93 bitrate=N/A speed= 153x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c766.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c767.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c768.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c769.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c770.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c771.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c772.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c773.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c774.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c775.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c776.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c777.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c778.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c779.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c780.mp4' for writing
+frame=112395 fps=3739 q=-1.0 size=N/A time=01:16:49.10 bitrate=N/A speed= 153x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c781.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c782.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c783.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c784.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c785.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c786.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c787.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c788.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c789.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c790.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c791.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c792.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c793.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c794.mp4' for writing
+frame=114493 fps=3747 q=-1.0 size=N/A time=01:18:16.65 bitrate=N/A speed= 154x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c795.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c796.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c797.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c798.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c799.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c800.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c801.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c802.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c803.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c804.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c805.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c806.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c807.mp4' for writing
+frame=116336 fps=3745 q=-1.0 size=N/A time=01:19:33.64 bitrate=N/A speed= 154x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c808.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c809.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c810.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c811.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c812.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c813.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c814.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c815.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c816.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c817.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c818.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c819.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c820.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c821.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c822.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c823.mp4' for writing
+frame=118607 fps=3758 q=-1.0 size=N/A time=01:21:08.19 bitrate=N/A speed= 154x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c824.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c825.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c826.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c827.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c828.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c829.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c830.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c831.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c832.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c833.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c834.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c835.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c836.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c837.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c838.mp4' for writing
+frame=120850 fps=3769 q=-1.0 size=N/A time=01:22:41.95 bitrate=N/A speed= 155x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c839.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c840.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c841.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c842.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c843.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c844.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c845.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c846.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c847.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c848.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c849.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c850.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c851.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c852.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c853.mp4' for writing
+frame=122863 fps=3773 q=-1.0 size=N/A time=01:24:05.87 bitrate=N/A speed= 155x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c854.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c855.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c856.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c857.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c858.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c859.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c860.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c861.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c862.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c863.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c864.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c865.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c866.mp4' for writing
+frame=124862 fps=3776 q=-1.0 size=N/A time=01:25:29.08 bitrate=N/A speed= 155x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c867.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c868.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c869.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c870.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c871.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c872.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c873.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c874.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c875.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c876.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c877.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c878.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c879.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c880.mp4' for writing
+frame=126870 fps=3780 q=-1.0 size=N/A time=01:26:52.87 bitrate=N/A speed= 155x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c881.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c882.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c883.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c884.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c885.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c886.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c887.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c888.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c889.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c890.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c891.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c892.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c893.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c894.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c895.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c896.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c897.mp4' for writing
+frame=129247 fps=3794 q=-1.0 size=N/A time=01:28:31.97 bitrate=N/A speed= 156x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c898.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c899.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c900.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c901.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c902.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c903.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c904.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c905.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c906.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c907.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c908.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c909.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c910.mp4' for writing
+frame=131213 fps=3796 q=-1.0 size=N/A time=01:29:54.18 bitrate=N/A speed= 156x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c911.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c912.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c913.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c914.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c915.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c916.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c917.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c918.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c919.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c920.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c921.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c922.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c923.mp4' for writing
+frame=132968 fps=3792 q=-1.0 size=N/A time=01:31:07.21 bitrate=N/A speed= 156x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c924.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c925.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c926.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c927.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c928.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c929.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c930.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c931.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c932.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c933.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c934.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c935.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c936.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c937.mp4' for writing
+frame=135031 fps=3796 q=-1.0 size=N/A time=01:32:33.25 bitrate=N/A speed= 156x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c938.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c939.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c940.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c941.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c942.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c943.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c944.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c945.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c946.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c947.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c948.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c949.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c950.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c951.mp4' for writing
+frame=137101 fps=3801 q=-1.0 size=N/A time=01:33:59.67 bitrate=N/A speed= 156x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c952.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c953.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c954.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c955.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c956.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c957.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c958.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c959.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c960.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c961.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c962.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c963.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c964.mp4' for writing
+frame=138976 fps=3800 q=-1.0 size=N/A time=01:35:17.96 bitrate=N/A speed= 156x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c965.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c966.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c967.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c968.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c969.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c970.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c971.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c972.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c973.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c974.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c975.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c976.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c977.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c978.mp4' for writing
+frame=140839 fps=3799 q=-1.0 size=N/A time=01:36:35.58 bitrate=N/A speed= 156x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c979.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c980.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c981.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c982.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c983.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c984.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c985.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c986.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c987.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c988.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c989.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c990.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c991.mp4' for writing
+frame=142730 fps=3799 q=-1.0 size=N/A time=01:37:54.49 bitrate=N/A speed= 156x    
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c992.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c993.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c994.mp4' for writing
+[hls @ 0x556cea44ef40] Opening '/config/cache/transcodes/9bfb1db23e84b0388a21990de505877c995.mp4' for writing
+[out#0/hls @ 0x556cea095b00] video:15310636KiB audio:232242KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=143211 fps=3800 q=-1.0 Lsize=N/A time=01:38:14.38 bitrate=N/A speed= 156x    
