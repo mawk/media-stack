@@ -84,9 +84,6 @@ Once updated, follow the steps below to deploy the stack with VPN.
 
 ```bash
 VPN_SERVICE_PROVIDER=nordvpn OPENVPN_USER=openvpn-username OPENVPN_PASSWORD=openvpn-password SERVER_COUNTRIES=Switzerland RADARR_STATIC_CONTAINER_IP=radarr-container-static-ip SONARR_STATIC_CONTAINER_IP=sonarr-container-static-ip docker compose --profile vpn up -d
-
-# OPTIONAL: Use Nginx as a reverse proxy
-# docker compose -f docker-compose-nginx.yml up -d
 ```  
 
 ### Static Container IP Requirement  
@@ -151,7 +148,7 @@ chown 1000:1000 /downloads/movies /downloads/tvshows
 - Open Radarr at http://localhost:7878
 - Settings --> Media Management --> Check mark "Movies deleted from disk are automatically unmonitored in Radarr" under File management section --> Save
 - Settings --> Media Management --> Scroll to bottom --> Add Root Folder --> Browse to /downloads/movies --> OK
-- Settings --> Download clients --> qBittorrent --> Add Host (qbittorrent) and port (5080) --> Username and password --> Test --> Save **Note: If VPN is enabled, then qbittorrent is reachable on vpn's service name. In this case use `vpn` in Host field.**
+- Settings --> Download clients --> qBittorrent --> Add Host (vpn) and port (5080) --> Username and password --> Test --> Save 
 - Settings --> General --> Enable advance setting --> Select Authentication and add username and password
 - Indexer will get automatically added during configuration of Prowlarr. See 'Configure Prowlarr' section.
 
@@ -180,8 +177,8 @@ Sonarr can also be configured in similar way.
 - Open Prowlarr at http://localhost:9696
 - Settings --> General --> Authentications --> Select Authentication and add username and password
 - Add Indexers, Indexers --> Add Indexer --> Search for indexer --> Choose base URL --> Test and Save
-- Add application, Settings --> Apps --> Add application --> Choose Radarr --> Prowlarr server (http://prowlarr:9696) --> Radarr server (http://radarr:7878) --> API Key --> Test and Save
-- Add application, Settings --> Apps --> Add application --> Choose Sonarr --> Prowlarr server (http://prowlarr:9696) --> Sonarr server (http://sonarr:8989) --> API Key --> Test and Save
+- Add application, Settings --> Apps --> Add application --> Choose Radarr --> Prowlarr server (http://vpn:9696) --> Radarr server (http://<RADARR_STATIC_CONTAINER_IP=>:7878) --> API Key --> Test and Save
+- Add application, Settings --> Apps --> Add application --> Choose Sonarr --> Prowlarr server (http://vpn:8989) --> Sonarr server (http://<SONARR_STATIC_CONTAINER_IP=>:8989) --> API Key --> Test and Save
 - This will add indexers in respective apps automatically.
 
 **Note: If VPN is enabled, then Prowlarr will not be able to reach radarr and sonarr with localhost or container service name. In that case use static IP for sonarr and radarr in radarr/sonarr server field (for e.g. http://172.19.0.5:8989). Prowlar will also be not reachable with its container/service name. Use `http://vpn:9696` instead in prowlar server field.**
@@ -199,85 +196,51 @@ Recommendarr is an AI based movies/tvshows recommendation tool. To use this you 
 - Settings --> Jellyfin --> Jellyfin URL (http://jellyfin:8096) --> API Keys (Jellyfin API Key) --> User ID (Add your jellyfin user id) --> Test Connection --> Save Jellyfin settings
 - Test recommendarr: Recommendations --> Choose LLM Model from drop down list --> Enable Jellyfin Watch History toggle --> Select language --> Choose genres --> Discover recommendations
 - You should be able to see recommendations based on your Jellyfin watch history
+## Kick off Nginx Container
+
+- nginx is now contained within the primary `docker-compose.yml`, so it should already be running as a part of the docker container we kicked off earlier:
+`docker compose --profile vpn up -d`
 
 ## Configure Nginx
 
-- Get inside Nginx container
-- `cd /etc/nginx/conf.d`
-- Add proxies for all tools.
-
-`docker cp nginx.conf nginx:/etc/nginx/conf.d/default.conf && docker exec -it nginx nginx -s reload`
-- Close ports of other tools in firewall/security groups except port 80 and 443.
-
-
-## Apply SSL in Nginx
-
-- Open port 80 and 443.
-- Get inside Nginx container and install certbot and certbot-nginx `apk add certbot certbot-nginx`
-- Add URL in server block. e.g. `server_name  localhost mediastack.example.com;` in /etc/nginx/conf.d/default.conf
-- Run `certbot --nginx` and provide details asked.
+- Note that the nginx container we set up in the `docker-compose.yml` has a volume linked to a local nginx.conf file:
+```
+volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro  # Mounts your local config as read-only (./nginx.conf in the media-stack dir is the local file here)
+```
+- This mounts your local config as read-only within the nginx docker container.
+- The `./nginx.conf` to the left of the `:` refers to the local `nginx.conf` file in the local media-stack directory
+- By updating that local `nginx.conf` file we're able to apply updated nginx settings by then reloading the nginx container:
+```
+docker exec -it nginx nginx -s reload
+```
+- Can also just take the container down and bring it back up (or restart it):
+```
+docker compose down nginx
+docker compose up -d nginx
+```
+or
+```
+docker compose restart nginx
+```
+- At this point, the local `nginx.conf` file should have all of the settings required for each application that we want to provide a reverse proxy for (jellyfin being the main one for easy app access).
+- That said, need to update the base_url across the different applications to ensure that they're ready to accept this
 
 ## Radarr Nginx reverse proxy
 
 - Settings --> General --> URL Base --> Add base (/radarr)
-- Add below proxy in nginx configuration
-
-```
-location /radarr {
-    proxy_pass http://radarr:7878;
-    proxy_set_header Host $host;
-    proxy_set_header X-Real-IP $remote_addr;
-    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-    proxy_http_version 1.1;
-    proxy_set_header Upgrade $http_upgrade;
-    proxy_set_header Connection $http_connection;
-  }
-```
-
-- Restart containers.
 
 ## Sonarr Nginx reverse proxy
 
 - Settings --> General --> URL Base --> Add base (/sonarr)
-- Add below proxy in nginx configuration
-
-```
-location /sonarr {
-    proxy_pass http://sonarr:8989;
-    proxy_set_header Host $host;
-    proxy_set_header X-Real-IP $remote_addr;
-    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-    proxy_http_version 1.1;
-    proxy_set_header Upgrade $http_upgrade;
-    proxy_set_header Connection $http_connection;
-  }
-```
 
 ## Prowlarr Nginx reverse proxy
 
 - Settings --> General --> URL Base --> Add base (/prowlarr)
-- Add below proxy in nginx configuration
-
-This may need to change configurations in indexers and base in URL.
-
-```
-location /prowlarr {
-    proxy_pass http://prowlarr:9696; # Comment this line if VPN is enabled.
-    # proxy_pass http://vpn:9696; # Uncomment this line if VPN is enabled.
-    proxy_set_header Host $host;
-    proxy_set_header X-Real-IP $remote_addr;
-    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-    proxy_http_version 1.1;
-    proxy_set_header Upgrade $http_upgrade;
-    proxy_set_header Connection $http_connection;
-  }
-```
-
-- Restart containers.
-
-**Note: If VPN is enabled, then Prowlarr is reachable on vpn's service name**
 
 ## qBittorrent Nginx proxy
+
+- I presently don't have this enabled... not sure that I really need a reverse proxy enabled for this guy... keeping this code snippet here as a reference for now
 
 ```
 location /qbt/ {
@@ -298,57 +261,34 @@ location /qbt/ {
 ## Jellyfin Nginx proxy
 
 - Add base URL, Admin Dashboard -> Networking -> Base URL (/jellyfin)
-- Add below config in Ngix config
-
-```
- location /jellyfin {
-        return 302 $scheme://$host/jellyfin/;
-    }
-
-    location /jellyfin/ {
-
-        proxy_pass http://jellyfin:8096/jellyfin/;
-
-        proxy_pass_request_headers on;
-
-        proxy_set_header Host $host;
-
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
-        proxy_set_header X-Forwarded-Host $http_host;
-
-        proxy_set_header Upgrade $http_upgrade;
-        proxy_set_header Connection $http_connection;
-
-        # Disable buffering when the nginx proxy gets very resource heavy upon streaming
-        proxy_buffering off;
-    }
-```
 
 ## Seerr Nginx proxy
 
 **Currently Seerr doesnot officially support the subfolder/path reverse proxy. They have a workaround documented here without an official support. Find it [here](https://docs.seerr.dev/extending-seerr/reverse-proxy)**
 
+- Because seerr doesn't support the base_url, simple reverse proxy method we're using elsewhere, I opted not to leverage it for now. Again, not sure that I really need it... we'll see.
+
+## Jellyfin App Access
+
+- At this point you should be able to access your media server via the jellyfin app by using your local_comp's ip while connected to the same wifi network on your phone and referencing the jellyfin reverse proxy: `http://<comp_ip_addr>/jellyfin`
+
+- That said... nothing's ever easy. I found that I wasn't able to initially, and it turned out that I needed to add some allowances through my comp's firewall:
 ```
-location / {
-        proxy_pass http://127.0.0.1:5055;
+# Allow HTTP and HTTPS traffic through the firewall
+sudo firewall-cmd --zone=public --add-service=http --permanent
+sudo firewall-cmd --zone=public --add-service=https --permanent
 
-        proxy_set_header Referer $http_referer;
-        proxy_set_header Host $host;
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_set_header X-Real-Port $remote_port;
-        proxy_set_header X-Forwarded-Host $host:$remote_port;
-        proxy_set_header X-Forwarded-Server $host;
-        proxy_set_header X-Forwarded-Port $remote_port;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
-        proxy_set_header X-Forwarded-Ssl on;
-    }
+# Reload the firewall to apply the changes
+sudo firewall-cmd --reload
 ```
+- These updates are permanent and should persist post a reboot
+- This does not represent a vulernability at present because only port 80 is open while on my comp's network (my apartment wifi), and any traffic is going to get intercepted by nginx
+    - If I wanted to do more with this in the future (remote accessing), I'd want to set up an SSL certificate (Let's Encrypt) or route throug ha a secure local overlya network (Tailscale)
 
-- Restart containers
+## Desktop IP Address Reservation
 
+- One other thing to note: there's no guarantee that your desktop ip address will remain fixed in place unless you make a point of reserving a specific ip address via your router settings
+- Go into your router settings, identify your desktop, and ensure that its present ip is reserved just for it
 
 ## Disclaimer  
 

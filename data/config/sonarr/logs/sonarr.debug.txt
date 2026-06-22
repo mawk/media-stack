@@ -1,0 +1,679 @@
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S06E02 The Big Salad 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.3|Debug|Parser|Parsing string 'Seinfeld S06E02 The Big Salad 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.3|Debug|Parser|Episode Parsed. Seinfeld - S06E02 
+2026-06-22 23:21:10.3|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.3|Debug|QualityParser|Trying to parse quality for 'Seinfeld S06E02 The Big Salad 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.3|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.3|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Release 'Seinfeld S06E02 The Big Salad 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S05E02 The Puffy Shirt 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.3|Debug|Parser|Parsing string 'Seinfeld S05E02 The Puffy Shirt 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.3|Debug|Parser|Episode Parsed. Seinfeld - S05E02 
+2026-06-22 23:21:10.3|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.3|Debug|QualityParser|Trying to parse quality for 'Seinfeld S05E02 The Puffy Shirt 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.3|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.3|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Release 'Seinfeld S05E02 The Puffy Shirt 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S06E01 The Chaperone 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.3|Debug|Parser|Parsing string 'Seinfeld S06E01 The Chaperone 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.3|Debug|Parser|Episode Parsed. Seinfeld - S06E01 
+2026-06-22 23:21:10.3|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.3|Debug|QualityParser|Trying to parse quality for 'Seinfeld S06E01 The Chaperone 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.3|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.3|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Release 'Seinfeld S06E01 The Chaperone 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E23 The Keys 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.3|Debug|Parser|Parsing string 'Seinfeld S03E23 The Keys 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.3|Debug|Parser|Episode Parsed. Seinfeld - S03E23 
+2026-06-22 23:21:10.3|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.3|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E23 The Keys 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.3|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.3|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E23 The Keys 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E21 The Letter 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.3|Debug|Parser|Parsing string 'Seinfeld S03E21 The Letter 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.3|Debug|Parser|Episode Parsed. Seinfeld - S03E21 
+2026-06-22 23:21:10.3|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.3|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E21 The Letter 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.3|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.3|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E21 The Letter 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E01 The Seinfeld Chronicles 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.3|Debug|Parser|Parsing string 'Seinfeld S01E01 The Seinfeld Chronicles 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.3|Debug|Parser|Episode Parsed. Seinfeld - S01E01 
+2026-06-22 23:21:10.3|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.3|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E01 The Seinfeld Chronicles 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.3|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-06-22 23:21:10.3|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.3|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.3|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E01 The Seinfeld Chronicles 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E20 The Good Samaritan 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E20 The Good Samaritan 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E20 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E20 The Good Samaritan 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E20 The Good Samaritan 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E16 The Fix-Up 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E16 The Fix-Up 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E16 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E16 The Fix-Up 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E16 The Fix-Up 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E14 The Pez Dispenser 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E14 The Pez Dispenser 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E14 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E14 The Pez Dispenser 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E14 The Pez Dispenser 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E13 The Subway 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E13 The Subway 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E13 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E13 The Subway 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E13 The Subway 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E15 The Suicide 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E15 The Suicide 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E15 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E15 The Suicide 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E15 The Suicide 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E04 Male-Unbonding 1080p HEVC x265-MeGusta' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S01E04 Male-Unbonding 1080p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S01E04 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E04 Male-Unbonding 1080p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E04 Male-Unbonding 1080p HEVC x265-MeGusta' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E10 The Stranded 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E10 The Stranded 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E10 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E10 The Stranded 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E10 The Stranded 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E12 The Red Dot 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E12 The Red Dot 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E12 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E12 The Red Dot 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E12 The Red Dot 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E09 The Nose Job 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E09 The Nose Job 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E09 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E09 The Nose Job 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E09 The Nose Job 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E08 The Tape 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E08 The Tape 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E08 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E08 The Tape 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E08 The Tape 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E07 The Cafe 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E07 The Cafe 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E07 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E07 The Cafe 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E07 The Cafe 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E05 The Library 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E05 The Library 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E05 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E05 The Library 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E05 The Library 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E06 The Parking Garage 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E06 The Parking Garage 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E06 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E06 The Parking Garage 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E06 The Parking Garage 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E03 The Pen 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E03 The Pen 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E03 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E03 The Pen 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E03 The Pen 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E04 The Dog 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E04 The Dog 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E04 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E04 The Dog 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E04 The Dog 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E01 The Note 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E01 The Note 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E01 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E01 The Note 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E01 The Note 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E02 The Truth 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E02 The Truth 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E02 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E02 The Truth 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E02 The Truth 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E05 The Stock Tip 1080p HEVC x265-MeGusta' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S01E05 The Stock Tip 1080p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S01E05 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E05 The Stock Tip 1080p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E05 The Stock Tip 1080p HEVC x265-MeGusta' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E19 The Limo 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E19 The Limo 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E19 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E19 The Limo 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E19 The Limo 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S03E11 The Alternate Side 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S03E11 The Alternate Side 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S03E11 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S03E11 The Alternate Side 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S03E11 The Alternate Side 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Love Island The Debrief S01E16 Episode 16 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Love Island The Debrief S01E16 Episode 16 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Love Island The Debrief - S01E16 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Love Island The Debrief S01E16 Episode 16 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: Kitsune
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Love Island The Debrief
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Love Island The Debrief S01E16 Episode 16 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E04 Male-Unbonding 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S01E04 Male-Unbonding 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S01E04 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E04 Male-Unbonding 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E04 Male-Unbonding 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Police Interceptors S25E12 720p WEB H264-JFF' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Police Interceptors S25E12 720p WEB H264-JFF'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Police Interceptors - S25E12 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Police Interceptors S25E12 720p WEB H264-JFF'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: JFF
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Police Interceptors
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Police Interceptors S25E12 720p WEB H264-JFF' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E02 The Stake Out 1080p HEVC x265-MeGusta' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S01E02 The Stake Out 1080p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S01E02 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E02 The Stake Out 1080p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E02 The Stake Out 1080p HEVC x265-MeGusta' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E05 The Stock Tip 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S01E05 The Stock Tip 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S01E05 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E05 The Stock Tip 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E05 The Stock Tip 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E02 The Stake Out 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S01E02 The Stake Out 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S01E02 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E02 The Stake Out 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E02 The Stake Out 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E03 The Robbery 1080p HEVC x265-MeGusta' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S01E03 The Robbery 1080p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S01E03 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E03 The Robbery 1080p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E03 The Robbery 1080p HEVC x265-MeGusta' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E03 The Robbery 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S01E03 The Robbery 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S01E03 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E03 The Robbery 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E03 The Robbery 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E01 The Seinfeld Chronicles 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S01E01 The Seinfeld Chronicles 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S01E01 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E01 The Seinfeld Chronicles 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E01 The Seinfeld Chronicles 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Game Changer S00E54 Behind the Scenes of Night Shift 720p DRPO WEB-DL AAC2 0 H 264-NTb' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Game Changer S00E54 Behind the Scenes of Night Shift 720p DRPO WEB-DL AAC2 0 H 264-NTb'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Game Changer - S00E54 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Game Changer S00E54 Behind the Scenes of Night Shift 720p DRPO WEB-DL AAC2 0 H 264-NTb'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: NTb
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Game Changer
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Game Changer S00E54 Behind the Scenes of Night Shift 720p DRPO WEB-DL AAC2 0 H 264-NTb' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Love Island S13E22 720p ITVX WEB-DL AAC2 0 H 264-RAWR' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Love Island S13E22 720p ITVX WEB-DL AAC2 0 H 264-RAWR'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Love Island - S13E22 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Love Island S13E22 720p ITVX WEB-DL AAC2 0 H 264-RAWR'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: RAWR
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Love Island S13E22 720p ITVX WEB-DL AAC2 0 H 264-RAWR'
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Love Island
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Love Island S13E22 720p ITVX WEB-DL AAC2 0 H 264-RAWR'
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Love Island S13E22 720p ITVX WEB-DL AAC2 0 H 264-RAWR' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S02E10 The Baby Shower 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S02E10 The Baby Shower 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S02E10 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S02E10 The Baby Shower 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S02E10 The Baby Shower 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S02E09 The Deal 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S02E09 The Deal 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S02E09 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S02E09 The Deal 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S02E09 The Deal 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S02E08 The Heart Attack 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S02E08 The Heart Attack 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S02E08 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S02E08 The Heart Attack 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S02E08 The Heart Attack 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S02E04 The Phone Message 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S02E04 The Phone Message 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S02E04 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S02E04 The Phone Message 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S02E04 The Phone Message 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S02E06 The Statue 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S02E06 The Statue 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S02E06 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.4|Debug|QualityParser|Trying to parse quality for 'Seinfeld S02E06 The Statue 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.4|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.4|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Release 'Seinfeld S02E06 The Statue 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.4|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S02E01 The Ex-Girlfriend 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.4|Debug|Parser|Parsing string 'Seinfeld S02E01 The Ex-Girlfriend 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.4|Debug|Parser|Episode Parsed. Seinfeld - S02E01 
+2026-06-22 23:21:10.4|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'Seinfeld S02E01 The Ex-Girlfriend 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'Seinfeld S02E01 The Ex-Girlfriend 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E05 The Stock Tip 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Seinfeld S01E05 The Stock Tip 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. Seinfeld - S01E05 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E05 The Stock Tip 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E05 The Stock Tip 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E04 Male-Unbonding 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Seinfeld S01E04 Male-Unbonding 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. Seinfeld - S01E04 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E04 Male-Unbonding 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E04 Male-Unbonding 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E03 The Robbery 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Seinfeld S01E03 The Robbery 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. Seinfeld - S01E03 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E03 The Robbery 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E03 The Robbery 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'Seinfeld S01E02 The Stake Out 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Seinfeld S01E02 The Stake Out 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. Seinfeld - S01E02 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'Seinfeld S01E02 The Stake Out 1080p PLAY WEB-DL AAC2 0 H 264-FLUX'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: FLUX
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series Seinfeld
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'Seinfeld S01E02 The Stake Out 1080p PLAY WEB-DL AAC2 0 H 264-FLUX' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'Game Changer S00E54 Behind the Scenes of Night Shift 1080p HEVC x265-MeGusta' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Game Changer S00E54 Behind the Scenes of Night Shift 1080p HEVC x265-MeGusta'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. Game Changer - S00E54 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'Game Changer S00E54 Behind the Scenes of Night Shift 1080p HEVC x265-MeGusta'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series Game Changer
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'Game Changer S00E54 Behind the Scenes of Night Shift 1080p HEVC x265-MeGusta' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'Game Changer S00E54 Behind the Scenes of Night Shift 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Game Changer S00E54 Behind the Scenes of Night Shift 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. Game Changer - S00E54 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'Game Changer S00E54 Behind the Scenes of Night Shift 720p HEVC x265-MeGusta'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series Game Changer
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'Game Changer S00E54 Behind the Scenes of Night Shift 720p HEVC x265-MeGusta' from 'Uindex (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'WWE.RAW.2024.07.08.HDTV.h264-ALRAGUM[TGx]' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'WWE.RAW.2024.07.08.HDTV.h264-ALRAGUM[TGx]'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. WWE RAW - 2024-07-08 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'WWE.RAW.2024.07.08.HDTV.h264-ALRAGUM[TGx]'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: SDTV v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: ALRAGUM
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series WWE RAW
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'WWE.RAW.2024.07.08.HDTV.h264-ALRAGUM[TGx]' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'WWE.RAW.2024.07.08.1080p..HDTV.h264-ALRAGUM[TGx]' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'WWE.RAW.2024.07.08.1080p..HDTV.h264-ALRAGUM[TGx]'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. WWE RAW - 2024-07-08 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'WWE.RAW.2024.07.08.1080p..HDTV.h264-ALRAGUM[TGx]'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: ALRAGUM
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series WWE RAW
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'WWE.RAW.2024.07.08.1080p..HDTV.h264-ALRAGUM[TGx]' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'House.of.the.Dragon.S02E04.2160p.10bit.HDR.DV.WEBRip.6CH.x265.HEV...' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'House.of.the.Dragon.S02E04.2160p.10bit.HDR.DV.WEBRip.6CH.x265.HEV...'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. House of the Dragon - S02E04 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'House.of.the.Dragon.S02E04.2160p.10bit.HDR.DV.WEBRip.6CH.x265.HEV...'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: 
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series House of the Dragon
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'House.of.the.Dragon.S02E04.2160p.10bit.HDR.DV.WEBRip.6CH.x265.HEV...' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'House.of.the.Dragon.S02E04.1080p.HEVC.x265-MeGusta[TGx]' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'House.of.the.Dragon.S02E04.1080p.HEVC.x265-MeGusta[TGx]'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. House of the Dragon - S02E04 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'House.of.the.Dragon.S02E04.1080p.HEVC.x265-MeGusta[TGx]'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: MeGusta
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series House of the Dragon
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'House.of.the.Dragon.S02E04.1080p.HEVC.x265-MeGusta[TGx]' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'The.Daily.Show.2024.07.08.720p.WEB.H264-JEBAITED[TGx]' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'The.Daily.Show.2024.07.08.720p.WEB.H264-JEBAITED[TGx]'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. The Daily Show - 2024-07-08 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'The.Daily.Show.2024.07.08.720p.WEB.H264-JEBAITED[TGx]'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: WEBDL-720p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: JEBAITED
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'The.Daily.Show.2024.07.08.720p.WEB.H264-JEBAITED[TGx]'
+2026-06-22 23:21:10.5|Debug|SceneMappingService|Found scene mapping for: The Daily Show. TVDB ID for mapping: 71256
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series The Daily Show
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'The.Daily.Show.2024.07.08.720p.WEB.H264-JEBAITED[TGx]'
+2026-06-22 23:21:10.5|Debug|SceneMappingService|Found scene mapping for: The Daily Show. TVDB ID for mapping: 71256
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'The.Daily.Show.2024.07.08.720p.WEB.H264-JEBAITED[TGx]' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] The Daily Show matches an alias for series with TVDB ID: 71256
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'WWE Monday Night RAW 8th July 2024 60fps WEBRip h264-TJ [TJET]' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'WWE Monday Night RAW 8th July 2024 60fps WEBRip h264-TJ [TJET]'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. WWE Monday Night RAW 8th July 2024 - 060 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'WWE Monday Night RAW 8th July 2024 60fps WEBRip h264-TJ [TJET]'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: WEBRip-480p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: TJET
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series WWE Monday Night RAW 8th July 2024
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'WWE Monday Night RAW 8th July 2024 60fps WEBRip h264-TJ [TJET]' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'House.of.the.Dragon.S02E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'House.of.the.Dragon.S02E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. House of the Dragon - S02E04 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'House.of.the.Dragon.S02E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: PSA
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series House of the Dragon
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'House.of.the.Dragon.S02E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'All.American.S06E14.HDTV.x264-PHOENiX' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'All.American.S06E14.HDTV.x264-PHOENiX'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. All American - S06E14 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'All.American.S06E14.HDTV.x264-PHOENiX'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: SDTV v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: PHOENiX
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'All.American.S06E14.HDTV.x264-PHOENiX'
+2026-06-22 23:21:10.5|Debug|SceneMappingService|Found scene mapping for: All American. TVDB ID for mapping: 348200
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series All American
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'All.American.S06E14.HDTV.x264-PHOENiX'
+2026-06-22 23:21:10.5|Debug|SceneMappingService|Found scene mapping for: All American. TVDB ID for mapping: 348200
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'All.American.S06E14.HDTV.x264-PHOENiX' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] All American matches an alias for series with TVDB ID: 348200
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'Love.Island.S11E36.480p.x264-RUBiK' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Love.Island.S11E36.480p.x264-RUBiK'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. Love Island - S11E36 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'Love.Island.S11E36.480p.x264-RUBiK'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: SDTV v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: RUBiK
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Love.Island.S11E36.480p.x264-RUBiK'
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series Love Island
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Love.Island.S11E36.480p.x264-RUBiK'
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'Love.Island.S11E36.480p.x264-RUBiK' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'Grace.2021.S04E02.WEB.x264-PHOENiX' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Grace.2021.S04E02.WEB.x264-PHOENiX'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. Grace 2021 - S04E02 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'Grace.2021.S04E02.WEB.x264-PHOENiX'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: WEBDL-480p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: PHOENiX
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series Grace 2021
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'Grace.2021.S04E02.WEB.x264-PHOENiX' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'WWE.RAW.2024.07.08.720p.HDTV.h264-ALRAGUM[TGx]' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'WWE.RAW.2024.07.08.720p.HDTV.h264-ALRAGUM[TGx]'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. WWE RAW - 2024-07-08 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'WWE.RAW.2024.07.08.720p.HDTV.h264-ALRAGUM[TGx]'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: HDTV-720p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: ALRAGUM
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series WWE RAW
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'WWE.RAW.2024.07.08.720p.HDTV.h264-ALRAGUM[TGx]' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'Love.Island.US.S06E25.480p.x264-RUBiK' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Love.Island.US.S06E25.480p.x264-RUBiK'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. Love Island US - S06E25 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'Love.Island.US.S06E25.480p.x264-RUBiK'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: SDTV v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: RUBiK
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Love.Island.US.S06E25.480p.x264-RUBiK'
+2026-06-22 23:21:10.5|Debug|SceneMappingService|Found scene mapping for: Love Island US. TVDB ID for mapping: 364107
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series Love Island US
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'Love.Island.US.S06E25.480p.x264-RUBiK'
+2026-06-22 23:21:10.5|Debug|SceneMappingService|Found scene mapping for: Love Island US. TVDB ID for mapping: 364107
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'Love.Island.US.S06E25.480p.x264-RUBiK' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] Love Island US matches an alias for series with TVDB ID: 364107
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Processing release 'WWE Monday Night Raw 2024 07 08 1080p HDTV h264-Star [TJET]' from 'kickasstorrents.ws (Prowlarr)'
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'WWE Monday Night Raw 2024 07 08 1080p HDTV h264-Star [TJET]'
+2026-06-22 23:21:10.5|Debug|Parser|Episode Parsed. WWE Monday Night Raw - 2024-07-08 
+2026-06-22 23:21:10.5|Debug|Parser|Languages parsed: Unknown
+2026-06-22 23:21:10.5|Debug|QualityParser|Trying to parse quality for 'WWE Monday Night Raw 2024 07 08 1080p HDTV h264-Star [TJET]'
+2026-06-22 23:21:10.5|Debug|Parser|Quality parsed: HDTV-1080p v1
+2026-06-22 23:21:10.5|Debug|Parser|Release Group parsed: TJET
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'WWE Monday Night Raw 2024 07 08 1080p HDTV h264-Star [TJET]'
+2026-06-22 23:21:10.5|Debug|SceneMappingService|Found scene mapping for: WWE Monday Night Raw. TVDB ID for mapping: 76779
+2026-06-22 23:21:10.5|Debug|ParsingService|No matching series WWE Monday Night Raw
+2026-06-22 23:21:10.5|Debug|Parser|Parsing string 'WWE Monday Night Raw 2024 07 08 1080p HDTV h264-Star [TJET]'
+2026-06-22 23:21:10.5|Debug|SceneMappingService|Found scene mapping for: WWE Monday Night Raw. TVDB ID for mapping: 76779
+2026-06-22 23:21:10.5|Debug|DownloadDecisionMaker|Release 'WWE Monday Night Raw 2024 07 08 1080p HDTV h264-Star [TJET]' from 'kickasstorrents.ws (Prowlarr)' rejected for the following reasons: [Permanent] WWE Monday Night Raw matches an alias for series with TVDB ID: 76779
+2026-06-22 23:21:10.5|Info|RssSyncService|RSS Sync Completed. Reports found: 572, Reports grabbed: 0
+2026-06-22 23:21:10.5|Debug|PendingReleaseService|Removing failed releases from pending
+2026-06-22 23:21:10.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:21:13.7|Debug|IndexerFactory|Temporarily ignoring indexer The Pirate Bay (Prowlarr) till 06/23/2026 00:21:03 due to recent failures.
+2026-06-22 23:21:13.7|Debug|IndexerFactory|Temporarily ignoring indexer Internet Archive (Prowlarr) till 06/23/2026 21:21:08 due to recent failures.
+2026-06-22 23:21:13.7|Debug|IndexerFactory|Temporarily ignoring indexer TorrentDownload (Prowlarr) till 06/23/2026 09:21:40 due to recent failures.
+2026-06-22 23:21:13.7|Debug|IndexerFactory|Temporarily ignoring indexer The Pirate Bay (Prowlarr) till 06/23/2026 00:21:03 due to recent failures.
+2026-06-22 23:21:13.7|Debug|IndexerFactory|Temporarily ignoring indexer Internet Archive (Prowlarr) till 06/23/2026 21:21:08 due to recent failures.
+2026-06-22 23:21:13.7|Debug|IndexerFactory|Temporarily ignoring indexer TorrentDownload (Prowlarr) till 06/23/2026 09:21:40 due to recent failures.
+2026-06-22 23:21:13.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:21:18.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:21:34.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:21:49.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:21:53.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:21:53.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:21:53.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:21:53.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:22:04.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:22:19.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:22:23.8|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-06-22 23:22:23.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:22:23.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:22:34.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:22:49.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:22:53.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:22:53.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:22:53.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:22:53.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:23:04.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:23:20.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:23:36.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:23:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:24:08.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:24:23.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:24:23.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:24:23.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:24:23.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:24:23.9|Info|SceneMappingService|Updating Scene mappings
+2026-06-22 23:24:23.9|Debug|XemProxy|Fetching alternate names
+2026-06-22 23:24:23.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:24:26.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:24:38.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:24:53.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:25:08.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:25:23.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:25:38.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:25:53.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:25:53.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:25:53.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:25:53.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:25:53.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:26:09.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:26:25.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:26:41.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:26:56.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:27:12.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:27:23.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-06-22 23:27:23.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:27:23.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:27:23.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:27:23.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:27:23.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:27:24.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:27:27.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:27:43.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:27:58.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:28:14.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:28:30.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:28:46.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:28:53.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:28:53.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:28:53.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:28:54.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:29:01.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:29:17.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:29:32.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:29:48.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:30:03.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:30:19.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:30:23.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:30:23.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:30:23.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:30:23.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:30:34.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:30:50.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:31:06.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:31:22.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:31:38.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:31:53.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:31:53.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:31:53.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:31:54.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:31:54.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:32:09.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:32:23.9|Debug|ImportListSyncService|No import lists with automatic add enabled
+2026-06-22 23:32:23.9|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:32:24.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:32:40.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:32:54.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2026-06-22 23:32:56.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
+2026-06-22 23:33:11.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: SignalR was successfully authenticated.
