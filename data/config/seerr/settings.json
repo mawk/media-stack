@@ -43,7 +43,7 @@
   "ip": "jellyfin",
   "port": 8096,
   "useSsl": false,
-  "urlBase": "",
+  "urlBase": "/jellyfin",
   "externalHostname": "",
   "jellyfinForgotPasswordUrl": "",
   "libraries": [
@@ -132,7 +132,8 @@
      "ignoreTls": false,
      "requireTls": false,
      "allowSelfSigned": false,
-     "senderName": "Seerr"
+     "senderName": "Seerr",
+     "usePublicLogo": false
     }
    },
    "discord": {
@@ -142,7 +143,9 @@
     "options": {
      "webhookUrl": "",
      "webhookRoleId": "",
-     "enableMentions": true
+     "enableMentions": true,
+     "locale": "en",
+     "useUserLocale": true
     }
    },
    "slack": {
@@ -150,7 +153,8 @@
     "embedPoster": true,
     "types": 0,
     "options": {
-     "webhookUrl": ""
+     "webhookUrl": "",
+     "locale": "en"
     }
    },
    "telegram": {
@@ -203,7 +207,8 @@
     "options": {
      "url": "",
      "token": "",
-     "priority": 0
+     "priority": 0,
+     "locale": "en"
     }
    },
    "ntfy": {
@@ -213,7 +218,8 @@
     "options": {
      "url": "",
      "topic": "",
-     "priority": 3
+     "priority": 3,
+     "locale": "en"
     }
    }
   }

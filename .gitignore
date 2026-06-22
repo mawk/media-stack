@@ -1,3 +1,8 @@
 .env
 data/media
 data/torrents
+data/config/*/data/metadata/*
+data/config/*/cache/*
+data/config/jellyfin/data/data/ScheduledTasks/*
+data/config/*/logs/*
+data/config/*/log/*

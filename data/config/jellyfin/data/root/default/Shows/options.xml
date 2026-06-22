@@ -22,7 +22,9 @@
   <PreferredMetadataLanguage>en</PreferredMetadataLanguage>
   <MetadataCountryCode />
   <SeasonZeroDisplayName>Specials</SeasonZeroDisplayName>
-  <MetadataSavers />
+  <MetadataSavers>
+    <string>Nfo</string>
+  </MetadataSavers>
   <DisabledLocalMetadataReaders />
   <LocalMetadataReaderOrder>
     <string>Nfo</string>
@@ -51,12 +53,12 @@
     <TypeOptions>
       <Type>Series</Type>
       <MetadataFetchers>
-        <string>TheMovieDb</string>
         <string>The Open Movie Database</string>
+        <string>TheMovieDb</string>
       </MetadataFetchers>
       <MetadataFetcherOrder>
-        <string>TheMovieDb</string>
         <string>The Open Movie Database</string>
+        <string>TheMovieDb</string>
       </MetadataFetcherOrder>
       <ImageFetchers>
         <string>TheMovieDb</string>
@@ -85,22 +87,22 @@
     <TypeOptions>
       <Type>Episode</Type>
       <MetadataFetchers>
-        <string>TheMovieDb</string>
         <string>The Open Movie Database</string>
+        <string>TheMovieDb</string>
       </MetadataFetchers>
       <MetadataFetcherOrder>
-        <string>TheMovieDb</string>
         <string>The Open Movie Database</string>
+        <string>TheMovieDb</string>
       </MetadataFetcherOrder>
       <ImageFetchers>
-        <string>TheMovieDb</string>
         <string>The Open Movie Database</string>
+        <string>TheMovieDb</string>
         <string>Embedded Image Extractor</string>
         <string>Screen Grabber</string>
       </ImageFetchers>
       <ImageFetcherOrder>
-        <string>TheMovieDb</string>
         <string>The Open Movie Database</string>
+        <string>TheMovieDb</string>
         <string>Embedded Image Extractor</string>
         <string>Screen Grabber</string>
       </ImageFetcherOrder>

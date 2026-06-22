@@ -92,7 +92,7 @@ services:
 
   sonarr:
     profiles: ["vpn", "no-vpn"]
-    image: linuxserver/sonarr:4.0.17
+    image: lscr.io/linuxserver/sonarr:latest
     container_name: sonarr
     networks:
       mynetwork:
