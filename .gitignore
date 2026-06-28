@@ -1,8 +1,66 @@
 .env
+
+# Media and download data
 data/media
 data/torrents
-data/config/*/data/metadata/*
-data/config/*/cache/*
-data/config/jellyfin/data/data/ScheduledTasks/*
-data/config/*/logs/*
-data/config/*/log/*
+
+# Logs
+data/config/**/logs
+data/config/**/log
+data/config/**/logs.db
+
+# Caches
+data/config/*/cache/
+data/config/*/.cache/
+data/config/jellyfin/cache/
+data/config/jellyfin/.cache/
+
+# Runtime databases
+data/config/**/*.db
+data/config/**/*.db-shm
+data/config/**/*.db-wal
+
+# PID files
+data/config/**/*.pid
+
+# App-generated / auto-downloaded content
+data/config/*/Backups/
+data/config/*/Sentry/
+data/config/*/asp/
+data/config/*/MediaCover/
+
+# Jellyfin runtime data
+data/config/jellyfin/.aspnet/
+data/config/jellyfin/data/data/jellyfin.db*
+data/config/jellyfin/data/data/splashscreen.png
+data/config/jellyfin/data/data/attachments/
+data/config/jellyfin/data/data/subtitles/
+data/config/jellyfin/data/data/SQLiteBackups/
+data/config/jellyfin/data/data/ScheduledTasks/
+data/config/jellyfin/data/metadata/
+data/config/jellyfin/data/transcodes/
+
+# Prowlarr auto-updated indexer definitions
+data/config/prowlarr/Definitions/
+
+# qBittorrent runtime data
+data/config/qbittorrent/.cache/
+data/config/qbittorrent/qBittorrent/BT_backup/
+data/config/qbittorrent/qBittorrent/GeoDB/
+data/config/qbittorrent/qBittorrent/lockfile
+data/config/qbittorrent/.ash_history
+data/config/qbittorrent/.bash_history
+
+# Jellyseerr/Overseerr runtime data
+data/config/seerr/cache/
+data/config/seerr/db/
+data/config/seerr/logs/
+data/config/seerr/anime-list.xml
+
+# Gluetun auto-downloaded server lists
+data/config/gluetun/servers.json
+data/config/gluetun/servers
+
+# qBittorrent runtime/state files
+data/config/qbittorrent/qBittorrent/qBittorrent-data.conf
+data/config/qbittorrent/qBittorrent/web_clientdata.json
