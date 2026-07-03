@@ -176,8 +176,16 @@ services:
     volumes:
       - ${DATA_DIR}/config/jellyfin:/config
       - ${DATA_DIR}:/data
-  # devices:
-   #  - /dev/videoN:/dev/videoN # Mount GPU device 
+    devices:
+      - /dev/dri:/dev/dri
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: cdi
+              device_ids:
+                - nvidia.com/gpu=all
+              capabilities: ["gpu"]
     ports:
       - 8096:8096
       - 7359:7359/udp
