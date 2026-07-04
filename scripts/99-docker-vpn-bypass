@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# NetworkManager dispatcher hook: reapplies the docker-vpn-bypass routing
+# whenever wlan0 comes up or gets a new DHCP lease (e.g. gateway change).
+# Install to /etc/NetworkManager/dispatcher.d/99-docker-vpn-bypass (root:root, 0755).
+IFACE="$1"
+STATUS="$2"
+
+if [[ "$IFACE" == "wlan0" ]]; then
+    case "$STATUS" in
+        up|dhcp4-change)
+            /home/michaelr/media-stack/scripts/docker-vpn-bypass.sh
+            ;;
+    esac
+fi
