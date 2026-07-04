@@ -7,6 +7,13 @@
 set -euo pipefail
 
 TABLE=100
+# Must be higher than Tailscale's own "from all lookup 52" rule (priority
+# 5270) so Tailscale gets first crack at routing traffic to its peers.
+# Otherwise replies from containers back to Tailscale devices (e.g. your
+# phone) get pulled into this bypass and shoved at the LAN gateway instead
+# of out tailscale0, since table 52 (Tailscale's peer routes) lives outside
+# of table 100 entirely.
+RULE_PRIORITY=20000
 LAN_IF=wlan0
 DOCKER_SUBNETS=(172.17.0.0/16 172.20.0.0/16)
 
@@ -31,6 +38,6 @@ done
 ip route replace default via "$GATEWAY" dev "$LAN_IF" table $TABLE
 
 for subnet in "${DOCKER_SUBNETS[@]}"; do
-    ip rule del from "$subnet" table $TABLE priority 100 2>/dev/null || true
-    ip rule add from "$subnet" table $TABLE priority 100
+    ip rule del from "$subnet" table $TABLE 2>/dev/null || true
+    ip rule add from "$subnet" table $TABLE priority $RULE_PRIORITY
 done
