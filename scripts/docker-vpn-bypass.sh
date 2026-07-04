@@ -16,6 +16,18 @@ if [[ -z "$GATEWAY" ]]; then
     exit 1
 fi
 
+# The docker bridges' own gateway addresses (e.g. 172.20.0.1) fall inside
+# the subnets we're redirecting, so table 100 needs their connected routes
+# too -- otherwise host<->container traffic on those bridges (including
+# replies to published-port/hairpin connections) gets shoved toward the
+# LAN gateway instead of delivered on-link, and just dies.
+for subnet in "${DOCKER_SUBNETS[@]}"; do
+    bridge_dev=$(ip route show table main "$subnet" | awk '{for(i=1;i<=NF;i++) if ($i=="dev") print $(i+1)}')
+    if [[ -n "$bridge_dev" ]]; then
+        ip route replace "$subnet" dev "$bridge_dev" table $TABLE
+    fi
+done
+
 ip route replace default via "$GATEWAY" dev "$LAN_IF" table $TABLE
 
 for subnet in "${DOCKER_SUBNETS[@]}"; do
