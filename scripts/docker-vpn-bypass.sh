@@ -37,6 +37,19 @@ done
 
 ip route replace default via "$GATEWAY" dev "$LAN_IF" table $TABLE
 
+# The LAN subnet itself also needs its connected route in table 100.
+# Replies from a container (e.g. nginx proxying /jellyfin) back to a LAN
+# client route through this table since they're sourced from the bridge
+# subnet -- without the LAN's own on-link route, table 100 only has the
+# default route, so those replies get sent as a routed hop via the
+# gateway instead of delivered directly on the LAN segment, and most
+# routers/switches won't loop that back in. This broke direct LAN
+# connections (e.g. smart TV apps) to Jellyfin.
+LAN_SUBNET=$(ip route show table main dev "$LAN_IF" scope link | awk '{print $1}' | head -1)
+if [[ -n "$LAN_SUBNET" ]]; then
+    ip route replace "$LAN_SUBNET" dev "$LAN_IF" table $TABLE
+fi
+
 for subnet in "${DOCKER_SUBNETS[@]}"; do
     ip rule del from "$subnet" table $TABLE 2>/dev/null || true
     ip rule add from "$subnet" table $TABLE priority $RULE_PRIORITY
