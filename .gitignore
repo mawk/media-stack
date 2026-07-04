@@ -4,6 +4,9 @@
 data/media
 data/torrents
 
+# Database backups (see scripts/backup-databases.sh)
+backups/
+
 # Logs
 data/config/**/logs
 data/config/**/log
