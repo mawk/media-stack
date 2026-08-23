@@ -53,12 +53,12 @@
     <TypeOptions>
       <Type>Series</Type>
       <MetadataFetchers>
-        <string>The Open Movie Database</string>
         <string>TheMovieDb</string>
+        <string>The Open Movie Database</string>
       </MetadataFetchers>
       <MetadataFetcherOrder>
-        <string>The Open Movie Database</string>
         <string>TheMovieDb</string>
+        <string>The Open Movie Database</string>
       </MetadataFetcherOrder>
       <ImageFetchers>
         <string>TheMovieDb</string>
@@ -87,22 +87,22 @@
     <TypeOptions>
       <Type>Episode</Type>
       <MetadataFetchers>
-        <string>The Open Movie Database</string>
         <string>TheMovieDb</string>
+        <string>The Open Movie Database</string>
       </MetadataFetchers>
       <MetadataFetcherOrder>
-        <string>The Open Movie Database</string>
         <string>TheMovieDb</string>
+        <string>The Open Movie Database</string>
       </MetadataFetcherOrder>
       <ImageFetchers>
-        <string>The Open Movie Database</string>
         <string>TheMovieDb</string>
+        <string>The Open Movie Database</string>
         <string>Embedded Image Extractor</string>
         <string>Screen Grabber</string>
       </ImageFetchers>
       <ImageFetcherOrder>
-        <string>The Open Movie Database</string>
         <string>TheMovieDb</string>
+        <string>The Open Movie Database</string>
         <string>Embedded Image Extractor</string>
         <string>Screen Grabber</string>
       </ImageFetcherOrder>
