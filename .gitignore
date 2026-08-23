@@ -34,6 +34,7 @@ data/config/*/MediaCover/
 
 # Jellyfin runtime data
 data/config/jellyfin/.aspnet/
+data/config/jellyfin/.nv/
 data/config/jellyfin/data/data/jellyfin.db*
 data/config/jellyfin/data/data/splashscreen.png
 data/config/jellyfin/data/data/attachments/
@@ -63,6 +64,9 @@ data/config/seerr/anime-list.xml
 # Gluetun auto-downloaded server lists
 data/config/gluetun/servers.json
 data/config/gluetun/servers
+
+# Host Tailscale daemon state/logs (not part of the stack, host config leaked into repo)
+config/tailscale/
 
 # qBittorrent runtime/state files
 data/config/qbittorrent/qBittorrent/qBittorrent-data.conf

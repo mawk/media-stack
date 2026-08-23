@@ -54,9 +54,9 @@ services:
     image: lscr.io/linuxserver/qbittorrent:5.2.0
 
     # Uncomment below if vpn is enabled
-    depends_on:               # Uncomment this line if vpn is enabled
-      vpn:                    # Uncomment this line if vpn is enabled
-        condition: service_healthy # Uncomment this line if vpn is enabled
+    depends_on:
+      vpn:
+        condition: service_healthy
 
     # Uncomment below line if vpn is enabled
     network_mode: service:vpn
@@ -114,10 +114,10 @@ services:
     image: linuxserver/prowlarr:2.3.5
 
     # Uncomment below if vpn is enabled
-    depends_on:               # Uncomment this line if vpn is enabled
-      vpn:                    # Uncomment this line if vpn is enabled
-        condition: service_healthy # Uncomment this line if vpn is enabled
-    network_mode: service:vpn # Uncomment this line if vpn is enabled
+    depends_on:
+      vpn:
+        condition: service_healthy
+    network_mode: service:vpn
 
     environment:
       - PUID=1000
@@ -196,6 +196,9 @@ services:
     profiles: ["vpn"]
     container_name: flaresolverr
     image: ghcr.io/flaresolverr/flaresolverr:latest
+    depends_on:
+      vpn:
+        condition: service_healthy
     network_mode: service:vpn
     environment:
       - LOG_LEVEL=info
