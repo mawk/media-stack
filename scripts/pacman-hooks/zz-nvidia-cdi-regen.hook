@@ -1,0 +1,27 @@
+# Regenerate the NVIDIA CDI spec after NVIDIA/EGL package upgrades so Jellyfin's GPU
+# passthrough doesn't break on renamed libs. See scripts/pacman-hooks/nvidia-cdi-regen.
+#
+# The "zz-" prefix matters: pacman runs hooks in filename order, and this must run AFTER
+# the packaged nvidia-ctk-cdi.hook (which only string-substitutes the driver version).
+#
+# Install (needs root):
+#   sudo install -Dm755 scripts/pacman-hooks/nvidia-cdi-regen /usr/local/bin/nvidia-cdi-regen
+#   sudo install -Dm644 scripts/pacman-hooks/zz-nvidia-cdi-regen.hook /etc/pacman.d/hooks/zz-nvidia-cdi-regen.hook
+
+[Trigger]
+Type = Package
+Operation = Install
+Operation = Upgrade
+Target = nvidia-utils
+Target = nvidia-container-toolkit
+Target = libnvidia-container
+Target = opencl-nvidia
+Target = egl-gbm
+Target = egl-wayland
+Target = egl-wayland2
+
+[Action]
+Description = Fully regenerating NVIDIA CDI spec (/etc/cdi/nvidia.yaml)
+When = PostTransaction
+Exec = /usr/local/bin/nvidia-cdi-regen
+Depends = nvidia-container-toolkit

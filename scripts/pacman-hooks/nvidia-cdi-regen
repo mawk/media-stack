@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+# Fully regenerates the NVIDIA CDI spec after a driver/EGL package upgrade.
+#
+# Why: the packaged nvidia-ctk-cdi.hook only string-substitutes the nvidia-utils
+# version in the existing spec, so renamed libs (e.g. libnvidia-egl-wayland.so.1.1.21
+# -> .1.1.22), device majors and new libs go stale and Jellyfin fails to start with
+# "failed to fulfil mount request: open /usr/lib/...: no such file or directory".
+#
+# Installed by scripts/pacman-hooks/zz-nvidia-cdi-regen.hook (see that file for install steps).
+# Generates into a sibling temp dir (NOT inside /etc/cdi, whose *.yaml files the CDI
+# scanner reads), verifies the result, then atomically replaces the spec — a failed or
+# bogus generation leaves the previous spec in place.
+# The temp file must end in .yaml: nvidia-ctk appends the extension otherwise and writes
+# somewhere other than where we look.
+set -euo pipefail
+
+SPEC="${CDI_SPEC:-/etc/cdi/nvidia.yaml}"
+tmpdir="$(mktemp -d "$(dirname "$SPEC").tmp.XXXXXX")"
+trap 'rm -rf "$tmpdir"' EXIT
+tmp="$tmpdir/nvidia.yaml"
+
+if ! nvidia-ctk cdi generate --output="$tmp" >/dev/null 2>&1; then
+    echo "nvidia-cdi-regen: 'nvidia-ctk cdi generate' failed (driver module not loaded yet? reboot, then rerun); keeping existing $SPEC" >&2
+    exit 1
+fi
+
+if [ ! -s "$tmp" ] || ! grep -q 'hostPath:' "$tmp"; then
+    echo "nvidia-cdi-regen: generated spec is empty or has no mounts; keeping existing $SPEC" >&2
+    exit 1
+fi
+
+missing=0
+while read -r path; do
+    if [ ! -e "$path" ]; then
+        echo "nvidia-cdi-regen: generated spec references missing file: $path" >&2
+        missing=1
+    fi
+done < <(grep -oP 'hostPath: \K\S+' "$tmp")
+
+if [ "$missing" -ne 0 ]; then
+    echo "nvidia-cdi-regen: refusing to install spec with missing files; keeping existing $SPEC" >&2
+    exit 1
+fi
+
+chmod 644 "$tmp"
+mv -f "$tmp" "$SPEC"
+echo "nvidia-cdi-regen: regenerated $SPEC"

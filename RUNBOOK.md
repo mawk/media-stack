@@ -25,6 +25,9 @@ To restart just one container instead of the whole stack:
 docker compose --profile vpn restart jellyfin
 ```
 
+Note: There's a script in the scrips/ dir that can be kicked off to do exactly this:
+`scripts/restart-stack.sh`
+
 ## 2. Full teardown
 
 Stops and removes every container. **Does not touch your data** — everything under
@@ -133,3 +136,89 @@ sudo nvidia-ctk cdi generate --output=/etc/cdi/nvidia.yaml
 sudo systemctl restart docker
 sudo systemctl restart media-stack.service
 ```
+
+## Note on the 2026-09-20 stale CDI spec incident
+
+Jellyfin sat in `Created` (exit 127) and `nginx` crash-looped with `host not found in upstream
+"jellyfin"`. Root cause was in `journalctl -u media-stack.service`:
+
+```
+failed to fulfil mount request: open /usr/lib/libnvidia-egl-wayland.so.1.1.21: no such file or directory
+```
+
+A pacman upgrade bumped `nvidia-utils` and `egl-wayland`/`egl-wayland2`, but `/etc/cdi/nvidia.yaml`
+still pointed at the old library filenames. The packaged `nvidia-ctk-cdi.hook` doesn't regenerate
+the spec — it only string-substitutes the `nvidia-utils` version number — so renamed libs, device
+majors and new libs were missed. nginx was just collateral; fix Jellyfin and it recovers.
+
+Quick diagnosis — any spec entry that no longer exists on disk means the spec is stale:
+
+```bash
+grep -oP 'hostPath: \K\S+' /etc/cdi/nvidia.yaml | while read -r p; do [ -e "$p" ] || echo "MISSING: $p"; done
+```
+
+### Auto-regenerating the CDI spec (pacman hook)
+
+`scripts/pacman-hooks/` holds a hook that does a full `nvidia-ctk cdi generate` after NVIDIA/EGL
+package upgrades, so this can't recur silently:
+
+- `nvidia-cdi-regen` — generates into a temp dir, refuses to install the result if it's empty or
+  references files that don't exist (the old spec stays in place), then atomically replaces
+  `/etc/cdi/nvidia.yaml`.
+- `zz-nvidia-cdi-regen.hook` — triggers on `nvidia-utils`, `nvidia-container-toolkit`,
+  `libnvidia-container`, `opencl-nvidia`, `egl-gbm`, `egl-wayland`, `egl-wayland2`. The `zz-` prefix
+  is deliberate: pacman runs hooks in filename order and this must run *after* the packaged
+  `nvidia-ctk-cdi.hook`.
+
+**Install** (needs root; re-run this if you change either file in the repo):
+
+```bash
+cd ~/media-stack
+sudo install -Dm755 scripts/pacman-hooks/nvidia-cdi-regen /usr/local/bin/nvidia-cdi-regen
+sudo install -Dm644 scripts/pacman-hooks/zz-nvidia-cdi-regen.hook /etc/pacman.d/hooks/zz-nvidia-cdi-regen.hook
+```
+
+`/etc/pacman.d/hooks/` is pacman's default `HookDir`; you don't need to edit `pacman.conf` (just
+make sure the `HookDir` line there is still commented out or points at that directory).
+
+The same script is also the manual fix for a stale spec right now:
+
+```bash
+sudo /usr/local/bin/nvidia-cdi-regen
+sudo systemctl restart media-stack.service   # add `sudo systemctl restart docker` first if Jellyfin still fails
+```
+
+**Verify the install:**
+
+```bash
+# 1. Both files are in place, and identical to the repo copies (no output from diff = good)
+ls -l /usr/local/bin/nvidia-cdi-regen /etc/pacman.d/hooks/zz-nvidia-cdi-regen.hook
+diff ~/media-stack/scripts/pacman-hooks/nvidia-cdi-regen /usr/local/bin/nvidia-cdi-regen
+diff ~/media-stack/scripts/pacman-hooks/zz-nvidia-cdi-regen.hook /etc/pacman.d/hooks/zz-nvidia-cdi-regen.hook
+
+# 2. It sorts after the packaged hook (zz-... must be the last line)
+printf '%s\n' /usr/share/libalpm/hooks/nvidia-ctk-cdi.hook /etc/pacman.d/hooks/zz-nvidia-cdi-regen.hook | xargs -n1 basename | sort
+
+# 3. Dry run against a scratch path (no root; real spec untouched). Expect "regenerated ..."
+mkdir -p /tmp/cditest && CDI_SPEC=/tmp/cditest/nvidia.yaml /usr/local/bin/nvidia-cdi-regen
+
+# 4. The live spec has no dangling references (no MISSING lines = good)
+grep -oP 'hostPath: \K\S+' /etc/cdi/nvidia.yaml | while read -r p; do [ -e "$p" ] || echo "MISSING: $p"; done
+
+# 5. The GPU stack actually starts
+docker inspect jellyfin --format '{{.State.Status}}'     # expect: running
+docker compose --profile vpn ps
+```
+
+**Verify it fires on a real upgrade** (after the next `pacman -Syu` that touches an NVIDIA/EGL
+package — the only end-to-end test, since it can't be triggered without a real transaction):
+
+```bash
+grep -E "nvidia-ctk-cdi.hook|zz-nvidia-cdi-regen.hook|nvidia-cdi-regen" /var/log/pacman.log | tail
+```
+
+Expect `running 'nvidia-ctk-cdi.hook'...` followed by `running 'zz-nvidia-cdi-regen.hook'...` and
+`nvidia-cdi-regen: regenerated /etc/cdi/nvidia.yaml`, in that order. Then run check 4 and confirm
+Jellyfin is `running`. If you instead see `nvidia-cdi-regen: ... keeping existing`, the old spec
+was preserved on purpose: the usual cause is the new driver's kernel module not being loaded yet,
+so reboot and run `sudo /usr/local/bin/nvidia-cdi-regen`.
