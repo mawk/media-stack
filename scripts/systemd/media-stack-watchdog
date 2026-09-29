@@ -1,0 +1,94 @@
+#!/usr/bin/env bash
+# Polls this compose project's containers for any that aren't "running" (restarting,
+# exited, dead) and pushes a phone notification via ntfy the moment it happens, instead
+# of you finding out next time you try to watch something.
+#
+# Debounced: sends one "down" alert when a container first goes bad, stays silent while
+# it remains bad (so it doesn't spam every 5 minutes), and sends one "recovered" alert
+# when it comes back. Also detects the docker daemon itself being unreachable, which is
+# arguably the more severe case (nothing else would even fire then).
+#
+# Installed by ../systemd/media-stack-watchdog.timer/.service (see that file for install
+# steps). Runs from the repo checkout directly, like scripts/backup-databases.sh — not
+# copied to /usr/local/bin.
+#
+# Requires NTFY_TOPIC set in .env — see the comment above it there for why it must be
+# kept as secret as a password, not something guessable like "media-stack".
+set -uo pipefail
+
+REPO_DIR="/home/michaelr/media-stack"
+STATE_DIR="/home/michaelr/.local/state/media-stack-watchdog"
+STATE_FILE="$STATE_DIR/bad-containers"
+DOCKER_DOWN_FLAG="$STATE_DIR/docker-down"
+mkdir -p "$STATE_DIR"
+touch "$STATE_FILE"
+
+# shellcheck disable=SC1091
+source "$REPO_DIR/.env"
+NTFY_SERVER="${NTFY_SERVER:-https://ntfy.sh}"
+
+if [ -z "${NTFY_TOPIC:-}" ]; then
+    echo "media-stack-watchdog: NTFY_TOPIC not set in $REPO_DIR/.env, nothing to notify with" >&2
+    exit 1
+fi
+
+# Returns failure if the push itself failed, so callers can avoid marking a container as
+# "already alerted" when nothing was actually delivered (otherwise a transient ntfy outage
+# would permanently swallow that alert instead of retrying next run).
+notify() {
+    local title="$1" message="$2" priority="$3" tags="$4"
+    if ! curl -fsS -m 10 -H "Title: $title" -H "Priority: $priority" -H "Tags: $tags" -d "$message" \
+        "$NTFY_SERVER/$NTFY_TOPIC" >/dev/null; then
+        echo "media-stack-watchdog: failed to send ntfy notification: $title" >&2
+        return 1
+    fi
+}
+
+current_bad="$(docker ps -a --filter "label=com.docker.compose.project=media-stack" \
+    --format '{{.Names}} {{.State}}' 2>/dev/null | awk '$2 != "running" {print $1}')"
+
+if [ $? -ne 0 ]; then
+    if [ ! -e "$DOCKER_DOWN_FLAG" ]; then
+        notify "media-stack: docker unreachable" \
+            "docker ps failed on michael-desktop -- daemon down or hung." \
+            "urgent" "rotating_light"
+        touch "$DOCKER_DOWN_FLAG"
+    fi
+    exit 0
+fi
+
+if [ -e "$DOCKER_DOWN_FLAG" ]; then
+    notify "media-stack: docker back" \
+        "docker daemon is responding again on michael-desktop." \
+        "default" "white_check_mark"
+    rm -f "$DOCKER_DOWN_FLAG"
+fi
+
+# "Alerted" = previously bad AND we successfully delivered that alert. Anything currently
+# bad but NOT in this set (whether brand new or a retry after a failed push) gets alerted
+# again below.
+alerted="$(sort -u "$STATE_FILE")"
+current_bad_sorted="$(sort -u <<<"$current_bad")"
+
+needs_alert="$(comm -23 <(echo "$current_bad_sorted") <(echo "$alerted") | sed '/^$/d')"
+recovered="$(comm -13 <(echo "$current_bad_sorted") <(echo "$alerted") | sed '/^$/d')"
+
+newly_alerted=""
+while read -r name; do
+    [ -z "$name" ] && continue
+    state="$(docker inspect "$name" --format '{{.State.Status}}' 2>/dev/null || echo unknown)"
+    if notify "media-stack: $name down" "$name is $state." "urgent" "rotating_light"; then
+        newly_alerted="$newly_alerted$name"$'\n'
+    fi
+done <<<"$needs_alert"
+
+while read -r name; do
+    [ -z "$name" ] && continue
+    notify "media-stack: $name recovered" "$name is running again." "default" "white_check_mark"
+done <<<"$recovered"
+
+# Persist: still-bad containers we'd already alerted on, plus any newly alerted just now.
+# Deliberately excludes still-bad containers whose alert just failed to send, so they're
+# retried as "needs_alert" again next run instead of going silently unalerted forever.
+{ comm -12 <(echo "$current_bad_sorted") <(echo "$alerted"); printf '%s' "$newly_alerted"; } \
+    | sed '/^$/d' | sort -u > "$STATE_FILE"

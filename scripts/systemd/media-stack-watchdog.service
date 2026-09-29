@@ -1,0 +1,24 @@
+# Runs scripts/systemd/media-stack-watchdog on the schedule set by the sibling .timer
+# unit, which pushes an ntfy alert if any media-stack container stops running (crash-
+# looping, exited) or if the docker daemon itself goes unreachable.
+#
+# Install (needs root):
+#   sudo install -Dm644 scripts/systemd/media-stack-watchdog.service /etc/systemd/system/media-stack-watchdog.service
+#   sudo install -Dm644 scripts/systemd/media-stack-watchdog.timer /etc/systemd/system/media-stack-watchdog.timer
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable --now media-stack-watchdog.timer
+#
+# (The script itself runs straight from this repo checkout, like backup-databases.sh —
+# no separate install step for it.)
+
+[Unit]
+Description=Check media-stack containers for crash/restart loops and alert via ntfy
+After=media-stack.service
+Wants=media-stack.service
+
+[Service]
+Type=oneshot
+User=michaelr
+Group=michaelr
+WorkingDirectory=/home/michaelr/media-stack
+ExecStart=/home/michaelr/media-stack/scripts/systemd/media-stack-watchdog
