@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+# Regenerates the NVIDIA CDI spec on every boot, not just on driver package upgrades.
+#
+# Why: /dev/dri/cardN device numbering is not guaranteed stable across boots (it depends
+# on device enumeration order, which can shift even with no package changes at all — e.g.
+# the NVIDIA GPU landing on card0 one boot and card1 the next on a single-GPU box). The
+# pacman hook (scripts/pacman-hooks/nvidia-cdi-regen) only re-runs on nvidia-utils/
+# nvidia-container-toolkit/EGL package upgrades, so it does nothing for a plain reboot —
+# leaving a stale spec that points at a card number the GPU no longer has, which makes
+# Jellyfin fail to start with "CDI device injection failed: ... no such file or directory".
+#
+# Installed by ../../scripts/systemd/nvidia-cdi-regen-boot.service (see that file for
+# install steps). Waits for the driver to actually be initialized (nvidia-smi working)
+# before handing off to the same regen script the pacman hook uses, so it never installs
+# a spec generated before the driver came up.
+set -uo pipefail
+
+for _ in $(seq 1 30); do
+    if nvidia-smi >/dev/null 2>&1; then
+        exec /usr/local/bin/nvidia-cdi-regen
+    fi
+    sleep 1
+done
+
+echo "nvidia-cdi-regen-boot: nvidia-smi never became ready after 30s; leaving existing CDI spec in place" >&2
+exit 1

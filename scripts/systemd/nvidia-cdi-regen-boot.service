@@ -1,0 +1,30 @@
+# Regenerates the NVIDIA CDI spec on every boot, before media-stack.service starts any
+# containers, so a shifted /dev/dri/cardN number never breaks Jellyfin's GPU passthrough
+# again. See ../nvidia-cdi-regen-boot for why this is needed in addition to the pacman
+# hook (scripts/pacman-hooks/zz-nvidia-cdi-regen.hook), which only covers package upgrades.
+#
+# Install (needs root):
+#   sudo install -Dm755 scripts/systemd/nvidia-cdi-regen-boot /usr/local/bin/nvidia-cdi-regen-boot
+#   sudo install -Dm644 scripts/systemd/nvidia-cdi-regen-boot.service /etc/systemd/system/nvidia-cdi-regen-boot.service
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable nvidia-cdi-regen-boot.service
+#
+# Also add to /etc/systemd/system/media-stack.service's [Unit] section so ordering is
+# guaranteed regardless of multi-user.target fan-out (WantedBy alone doesn't order peers):
+#   Requires=nvidia-cdi-regen-boot.service
+#   After=nvidia-cdi-regen-boot.service
+
+[Unit]
+Description=Regenerate NVIDIA CDI spec at boot (device node numbers can shift across boots)
+After=systemd-udev-settle.service local-fs.target
+Wants=systemd-udev-settle.service
+Before=media-stack.service
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/local/bin/nvidia-cdi-regen-boot
+TimeoutStartSec=45
+
+[Install]
+WantedBy=multi-user.target
